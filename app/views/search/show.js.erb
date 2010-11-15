@@ -1,0 +1,1 @@
+$('#results').append('<ul><%@songs.each do |s| %><li><%= escape_javascript(s.Name)%> - <%= escape_javascript(s.Artist.Name)%> - <%= escape_javascript(s.Album.Name)%></li><%end%></ul>');

@@ -1,0 +1,4988 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <base href="http://www.legalsounds.com" />
+    <title>Power Search   mp3 download</title>
+    <link  rel="stylesheet" type="text/css" href="/WebObjects/LegalSounds.woa/Contents/WebServerResources/legalsounds.css?1289764658576"/>
+
+    
+      <META name="description" content="Power Search mp3 download. Full mp3 album downloads, download mp3 charts, mp3 search, free song, mp3 music downloads, buy mp3 music online safe and secure" />
+      <META name="keywords" />
+      <meta name="Author" content="info@legalsounds.com"></meta>
+      <meta name="robots" content="index, follow"></meta>
+      <META name="revisit-after" content="14 days" />
+    
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_scrollObj.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_glidescroll.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_hoverscroll.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_event.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_slidebar.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/dw_scroll_aux.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/my_downloads.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/menu.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/one_album.js?1289764658576"></script>
+    <script type="text/javascript" src="/WebObjects/Frameworks/DMExtensions.framework/WebServerResources/dmutilities.js?1289764658576"></script>
+    <script type="text/javascript">
+<!--
+function initScrollLayers() {
+  for (i=1; i<=10; i++) {
+    if (document.getElementById('cbwn'+i)) {
+      var wndo = new dw_scrollObj('cbwn'+i, 'cblyr'+i, null, 1);
+      dw_scrollObj.GeckoTableBugFix('wn'+i); 
+    }
+  }
+}
+
+function dw_showLayers() {
+  if ( document.getElementById ) {
+    var lyr;
+      lyr = document.getElementById( arguments[0] );
+      lyr.style.visibility = "visible";
+  }
+}
+
+CheckBrowser();
+// -->
+
+</script>
+  <script src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/prototype.js?1289764658576"></script>
+<script src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/js/load_balancer.min.js?1289764658576"></script>
+</head>
+  <body vlink="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#ffffff" alink="#ffffff" text="#ffffff" bgcolor="#BDC2C5" onload="initScrollLayers()">
+    
+  <div style="padding-left:39px;">
+    
+
+	<TABLE CELLSPACING=0 BORDER=0 WIDTH=943 CELLPADDING=0>
+		<TR BGCOLOR="#DCDEDF">
+			<TD COLSPAN=4 class="HeaderImage"></TD>
+		</TR>
+		<TR ALIGN=right VALIGN=top>
+			<TD ROWSPAN=2 width="182"><a href="/"><img vspace="5" border="0" hspace="16" alt="On-line music service LegalSounds.com: huge collection of mp3 music for download" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/logo.gif?1289764658576" width="145" height="88" /></a></TD>
+			<TD HEIGHT=83 COLSPAN=3 width="761"><TABLE cellspacing="0" border="0" cellpadding="0">
+  <tr>
+    <td class = "menuitms">
+      <table cellspacing = "0" class = "topmenu" cellpadding = "0" border = "0">
+        <tr>
+          
+            
+            
+            
+              
+              
+                <td class="SignUp">
+                  <a href="/My/signup"><img valign="middle" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/sign_up.gif?1289764658576" width="48" height="20" /></a>
+                </td>
+                <td class="SignIn">
+                  <a href="/My/entrance"><img valign="middle" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/sign_in.gif?1289764658576" width="48" height="20" /></a>
+                </td>
+              
+            
+          
+            
+              <td>
+                <a href="/My/details?__cid=0"><DIV><img border="0" width="59" height="9" alt="My Details" src="/legalsounds/upload/Menu/English.lproj/23.gif" /></DIV></a>
+              </td>
+            
+             
+              <td>
+              	<div class="AddFunds">
+                  <a href="/My/newPayment"><img valign="middle" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/add_funds.gif?1289764658576" width="51" height="7" /></a>
+                </div>
+              </td>
+            
+            
+          
+            
+              <td>
+                <a href="/My/balance"><DIV><img border="0" width="59" height="9" alt="My Balance" src="/legalsounds/upload/Menu/English.lproj/24.gif" /></DIV></a>
+              </td>
+            
+            
+            
+          
+            
+              <td>
+                <a href="/My/stats"><DIV><img border="0" width="47" height="9" alt="My Stats" src="/legalsounds/upload/Menu/English.lproj/21.gif" /></DIV></a>
+              </td>
+            
+            
+            
+          
+            
+              <td>
+                <a href="/My/downloads"><DIV><img border="0" width="71" height="9" alt="My Downloads" src="/legalsounds/upload/Menu/English.lproj/25.gif" /></DIV></a>
+              </td>
+            
+            
+            
+          
+            
+              <td>
+                <a href="/My/musicRequest"><DIV><img border="0" width="76" height="9" alt="Music Request" src="/legalsounds/upload/Menu/English.lproj/26.gif" /></DIV></a>
+              </td>
+            
+            
+            
+          
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+</TABLE></TD>
+		</TR>
+		<TR ALIGN=right VALIGN=bottom>
+			<TD ALIGN=left><IMG HEIGHT=19 WIDTH=19 BORDER=0 SRC="/legalsounds/img/1/symbol_1.gif"></TD>
+			<TD><IMG HEIGHT=19 WIDTH=23 BORDER=0 SRC="/legalsounds/img/1/symbol_2.gif"></TD>
+			<TD><TABLE CLASS=langswitch CELLSPACING=0 CELLPADDING=0 BORDER=0><TR VALIGN=MIDDLE><TD><img src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/tit_language.gif?1289764658576" width="29" height="7" /></TD><TD CLASS=flags><SPAN><img border="0" width="22" height="13" alt="English" src="/legalsounds/upload/Language/1.gif" /></SPAN><a href="/langSwitch?__cid=0&amp;lang=Russian"><SPAN><img border="0" width="22" height="13" alt="Русский" src="/legalsounds/upload/Language/2.gif" /></SPAN></a></TD></TR></TABLE></TD>
+		</TR>
+	</TABLE>
+
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=943 CELLPADDING=0>
+	<TR>
+		<TD HEIGHT=10 BGCOLOR="#C6CACC" WIDTH=182>
+			<SPACER HEIGHT=1 TYPE=block WIDTH=1>
+		</TD>
+		<TD WIDTH=3></TD>
+		<TD BGCOLOR="#C3C8CB" WIDTH=758>
+			<SPACER HEIGHT=1 TYPE=block WIDTH=1>
+		</TD>
+	</TR>
+</TABLE>
+
+    
+    <table cellspacing="0" border="0" width="943" cellpadding="0">
+      <tr valign="top">
+        
+        <td width="209">
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr valign="top">
+              <td bgcolor="#C6CACC" width="10"><spacer height="1" type="block" width="1" /></td>
+              <TD width="172" bgcolor="#DCDEDF">
+                <div>
+  <div style="padding:22px 0 22px 18px;">
+    <table class="menu" cellspacing="0" border="0" cellpadding="0">
+        <tr>
+          <TD name="menu1" onmouseover="ShowMenu(1,'show'); On(1);" onmouseout="HideOut(1,0); Off(1); " class="off" id="menu1">
+            <a href="/">
+              <span><img src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/music_catalogue.gif?1289764658576" width="154" height="12" /></span>
+            </a>
+          </TD>
+        </tr>
+      
+        <tr>
+          <TD name="menu2" onmouseover="On(2)" onmouseout="Off(2);" class="off" id="menu2">
+            <a href="/ListChart">
+              <SPAN><img border="0" width="154" height="12" alt="Charts" src="/legalsounds/upload/Menu/English.lproj/10.gif" /></SPAN>
+            </a>
+          </TD>
+        </tr>
+      
+        <tr>
+          <TD name="menu3" onmouseover="On(3)" onmouseout="Off(3);" class="off" id="menu3">
+            <a href="/help">
+              <SPAN><img border="0" width="154" height="12" alt="Help" src="/legalsounds/upload/Menu/English.lproj/14.gif" /></SPAN>
+            </a>
+          </TD>
+        </tr>
+      
+        <tr>
+          <TD name="menu4" onmouseover="ShowMenu(4,'show'); On(4);" onmouseout="HideOut(4,0); Off(4); " class="off" id="menu4">
+            
+              <SPAN><img border="0" width="154" height="12" alt="About us" src="/legalsounds/upload/Menu/English.lproj/19.gif" /></SPAN>
+            
+          </TD>
+        </tr>
+      
+        <tr>
+          <TD name="menu5" onmouseover="On(5)" onmouseout="Off(5);" class="off" id="menu5">
+            <a href="/affiliate">
+              <SPAN><img border="0" width="154" height="12" alt="Affiliate Program" src="/legalsounds/upload/Menu/English.lproj/28.gif" /></SPAN>
+            </a>
+          </TD>
+        </tr>
+      
+    </table>
+  </div>
+</div>
+<script language="JavaScript" type="text/javascript">
+CreateLayer(1, 0, "menu1", 1, "<div class=submenu><div class=cont><div><a href=\"http://www.legalsounds.com/mostDownloaded\">Most Downloaded</a><br> \
+<a href=\"http://www.legalsounds.com/hotReleases\">Hot Releases</a><br> \
+<a href=\"http://www.legalsounds.com/justAdded\">Just Added</a><br> \
+<a href=\"http://www.legalsounds.com/releasesByYear\">Music by Years</a><br> \
+<a href=\"http://www.legalsounds.com/soundtracks\">Soundtracks</a><br> \
+</div></div></div>",0); 
+
+CreateLayer(4, 0, "menu4", 4, "<div class=submenu><div class=cont><div><a href=\"http://www.legalsounds.com/Contacts\">Contact Us</a><br> \
+<a href=\"http://www.legalsounds.com/LegalInfo\">Legal Info</a><br> \
+<a href=\"http://www.legalsounds.com/Terms\">Terms of Service</a><br> \
+<a href=\"http://www.legalsounds.com/Privacy\">Privacy Policy</a><br> \
+<a href=\"http://www.legalsounds.com/Partners\">Mp3 Players Review</a><br> \
+</div></div></div>",0); 
+
+
+</script>
+                
+                <a title="USA top 40 chart" href="/DMHitLogger?entity=LeftColumnBanner&amp;itemid=27&amp;url=https%3A%2F%2Fsecure.legalsounds.com%2FLS%2FWebObjects%2FLegalSounds.woa%2Fwa%2FMy%2Fsignup"><DIV style="border-top:1px solid #C6CACC"><img border="0" width="172" height="70" alt="USA top 40 chart" src="/legalsounds/upload/LeftColumnBanner/English.lproj/27.gif" /></DIV></a><DIV STYLE="border-top:3px solid #D5D8DA; ">
+<DIV ALIGN=left
+	STYLE="background-image: url(/legalsounds/img/1/quick_start_guide_bg.gif); background-repeat:no-repeat; background-position:bottom right; padding-left:14px">
+<TABLE CELLSPACING=0 CLASS=quick CELLPADDING=0 BORDER=0 WIDTH=100%>
+	<TR>
+		<TH><SPAN><img border="0" width="101" height="9" alt="Quick Start Guide To Downloading Music" src="/legalsounds/upload/LeftColumnBanner/English.lproj/3.gif" /></SPAN></TH>
+	</TR>
+	<TR>
+		<TD>
+			<a href="/InspectHelpRubric?__key=12"><B>Step1</B>| 
+			Register</a><BR>
+		
+			<a href="/InspectHelpRubric?__key=12"><B>Step2</B>| 
+			Transfer Money</a><BR>
+		
+			<a href="/InspectHelpRubric?__key=12"><B>Step3</B>| 
+			Download Music</a><BR>
+		</TD>
+	</TR>
+</TABLE>
+</DIV>
+</DIV>
+<div style="border-top:3px solid #D5D8DA">
+  <div style="height:138px; background-image: url(/legalsounds/img/1/x_bg.jpg); background-repeat:no-repeat; background-position:bottom; vertical-align: top;">
+    <table border="0" cellpadding="0" cellspacing="0" class="x" width="172">
+      <tr>
+        <td>&nbsp;</td>
+        <td style="padding:12 0 0 29px">
+          270,910
+          <div class="xname">
+            artists
+          </div>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td style="padding:4 0 0 9px">
+          3,414,758
+          <div class="xname">
+            songs
+          </div>
+        </td>
+        <td style="padding:21 0 0 62px">
+          370,038
+          <div class="xname">
+            albums
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2" style="padding:15 0 0 3px">
+          More&More
+        </td>
+      </tr>
+    </table>
+  </div>
+</div><a title="Get Legalsounds Music Downloader" href="/DMHitLogger?entity=LeftColumnBanner&amp;itemid=2&amp;url=%2Flegalsounds%2Fdownload%2Fdownloader.exe"><DIV style="border-top:1px solid #C6CACC"><img border="0" width="172" height="101" alt="Get Legalsounds Music Downloader" src="/legalsounds/upload/LeftColumnBanner/English.lproj/2.jpg" /></DIV></a>
+              </TD>
+              <td align="right" width="27" colspan="2" background="/legalsounds/img/1/bg_1.gif">
+                <img border="0" hspace="6" height="215" src="/legalsounds/img/1/symbol_4.gif" width="12" />
+                
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#C6CACC" height="10" colspan="2"><spacer height="1" type="block" width="1" /></td>
+              <td width="3" />
+              <td bgcolor="#C6CACC" width="24"><spacer height="1" type="block" width="1" /></td>
+            </tr>
+          </table>
+        </td>
+        
+        
+        <td width="735">
+          
+          
+	<DIV STYLE="background-color:#DCDEDF">
+		<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0>
+			<TR VALIGN=top>
+				
+				<TD>
+					<TABLE CELLSPACING=4 CELLPADDING=0 BORDER=0><TR VALIGN=top><TD WIDTH=170><DIV class="mostDnldTopHolder" style="background: #709861 url(/legalsounds/img/1/bg_blockalbum.gif) no-repeat">
+  <div class="mostDnld">
+    <DIV class="tit" style="border-bottom: 1px solid #71b9ca">
+      
+  <SPAN><img border="0" width="131" height="9" alt="Most Downloaded Mp3 Albums" src="/legalsounds/upload/ContentBlock/English.lproj/2.gif" /></SPAN>
+
+
+
+    </DIV>
+    <div class="cont">
+      <div class="txt">
+        
+          <p>
+  
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+    Rockferry
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/hitzone-45-%282-cd%29/album_86542">
+
+    Hitzone 45 (2 CD)
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/now-that%27s-what-i-call-music-vol.-69-%282-cd%29/album_86547">
+
+    Now That's What I Call Mu&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/bravo-hits-vol.-61-%282-cd%29/album_86522">
+
+    Bravo Hits Vol. 61 (2 CD)
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/now-that%27s-what-i-call-music-5---disc-1/album_91049">
+
+    Now That's What I Call Mu&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/the-dome-vol.46-%282cd%29/album_92276">
+
+    The Dome Vol.46 (2CD)
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/now-that%27s-what-i-call-music%21-70-%28cd-1%29/album_91111">
+
+    Now That's What I Call Mu&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/absolute-summer-hits-2008-%28cd.1%29/album_91355">
+
+    Absolute Summer Hits 2008&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/100x-soul/album_92250">
+
+    100X Soul
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/the-dome-summer-2008-%282cd%29/album_92275">
+
+    The Dome Summer 2008 (2CD&#8230;
+  
+</a>
+
+</p>
+        
+      </div>
+    </div>
+    
+
+
+  <div class = "moreWithIcon">
+    
+  </div>
+
+  </div>
+</DIV></TD><TD WIDTH=170><DIV class="mostDnldTopHolder" style="background: #e79843 url(/legalsounds/img/1/bg_blockartist.gif) no-repeat">
+  <div class="mostDnld">
+    <DIV class="tit" style="border-bottom: 1px solid #eeb77c">
+      
+  <SPAN><img border="0" width="137" height="9" alt="Most Downloaded Artists" src="/legalsounds/upload/ContentBlock/English.lproj/43.gif" /></SPAN>
+
+
+
+    </DIV>
+    <div class="cont">
+      <div class="txt">
+        
+          <p>
+  
+
+<a href="/download-mp3/duffy/artist_32672">
+
+    Duffy
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+    Stephen Duffy
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/duffy%281%29/artist_40946">
+
+    Duffy(1)
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/stephen-tin-tin-duffy/artist_45265">
+
+    Stephen Tin Tin Duffy
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/duffy%282%29/artist_40620">
+
+    Duffy(2)
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/dj-hen-boogie-feat.-suzy-duffy/artist_150513">
+
+    DJ Hen Boogie Feat. Suzy &#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/frankie-rose-duffy/artist_269137">
+
+    Frankie Rose Duffy
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/simon-duffy-%26-alex-whitcombe/artist_175455">
+
+    Simon Duffy & Alex Whitco&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/lemongrass-feat.-suzy-duffy/artist_227234">
+
+    Lemongrass feat. Suzy Duf&#8230;
+  
+</a>
+
+</p>
+        
+          <p>
+  
+
+<a href="/download-mp3/duffy-glastonbury/artist_115127">
+
+    Duffy Glastonbury
+  
+</a>
+
+</p>
+        
+      </div>
+    </div>
+    
+
+
+  <div class = "moreWithIcon">
+    
+  </div>
+
+  </div>
+</DIV></TD></TR></TABLE>
+				</TD>
+				
+				<TD width="3" bgcolor="#BDC2C5" height="185"><IMG HEIGHT=1 WIDTH=1 SRC="/legalsounds/img/1/spacer.gif"><SPACER HEIGHT=1 TYPE=block WIDTH=1></TD>
+				
+				<TD ALIGN=RIGHT WIDTH=379>
+					<TABLE CELLSPACING=4 CELLPADDING=0 BORDER=0><TR VALIGN=top><TD WIDTH=372 HEIGHT=170><DIV CLASS=powersearchHolder>							<div CLASS=powersearch>
+								<DIV CLASS=tit><DIV><img border="0" width="71" height="9" alt="Power Search" src="/legalsounds/upload/ContentBlock/English.lproj/31.gif" /></DIV></DIV>
+								<table CELLSPACING=0 BORDER=0 CELLPADDING=0 WIDTH=330>
+								<form name="f_0_1_0_0_33_1_19_11_0_0_0_0_0_0_20_1_0_0_0_0_0_0_21_3" METHOD="GET" action="/powerSearch">
+									<tr VALIGN=TOP>
+										<td ALIGN=RIGHT STYLE="padding-top: 38px" WIDTH=155>
+											<TABLE CELLPADDING=0 BORDER=0 CELLSPACING=0>
+												<TR VALIGN=MIDDLE>
+													<TD ALIGN=RIGHT>song:</TD>
+													<TD><input class="field" type="text" name="s" /></TD>
+												</TR>
+												<TR VALIGN=MIDDLE>
+													<TD ALIGN=RIGHT>artist:</TD>
+													<TD><input class="field" type="text" value="duffy" name="ar" /></TD>
+												</TR>
+												<TR VALIGN=MIDDLE>
+													<TD ALIGN=RIGHT>album:</TD>
+													<TD><input class="field" type="text" name="a" /></TD>
+												</TR><TR><TD></TD><TD ALIGN=RIGHT><input name="wosid" type="hidden" value="tIzptjU7TN7oMxrCn6gJqw"></input><input border="0" class="button" type="image" name="SubmitButton" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/btn_power_search.gif?1289764658576" height="15" /><input type="hidden" name="WOSubmitAction" value="powerSearch" /></TD></TR>
+											</TABLE>
+											</td>
+									<td ALIGN=RIGHT CLASS=popups STYLE="padding-top: 23px" VALIGN=MIDDLE><select class="field" style="width: 129px" name="g"><option value="WONoSelectionString">- Any genre -</option><option value="459">Alternative</option><option value="1851">Ambient</option><option value="2825">Audiobook</option><option value="144">Blues</option><option value="1850">Chanson</option><option value="1017">Children's Music</option><option value="1039">Christian &amp; Gospel</option><option value="8">Classical</option><option value="82">Comedy</option><option value="443">Country</option><option value="455">Dance</option><option value="1852">Easy listening</option><option value="452">Electronic</option><option value="473">Folk</option><option value="1853">Gothic</option><option value="920">Hip Hop/Rap</option><option value="512">Holiday</option><option value="1854">Industrial</option><option value="471">Jazz</option><option value="2826">Karaoke</option><option value="448">Latin</option><option value="1707">Metal</option><option value="732">New Age</option><option value="758">Pop</option><option value="1009">R&amp;B/Soul</option><option value="705">Reggae</option><option value="1831">Retro</option><option value="595">Rock</option><option value="464">Soundtrack</option><option value="1855">Urban</option><option value="469">Vocal</option><option value="241">World</option></select><BR>
+										</td>
+								</tr>
+								
+								</form></table>
+							</div>
+							</DIV></TD></TR></TABLE>
+				</TD>
+				
+			</TR>
+			<TR>
+				<TD BGCOLOR="#84888A" HEIGHT=1><SPACER HEIGHT=1 TYPE=block WIDTH=1></TD>
+				<TD BGCOLOR="#717476" COLSPAN=2><SPACER HEIGHT=1 TYPE=block WIDTH=1></TD>
+			</TR>
+		</TABLE>
+
+		<TABLE CELLSPACING=0 BORDER=0 WIDTH=734 CELLPADDING=0>
+			<TR>
+				<TD BGCOLOR="#BDC2C5" HEIGHT=3><SPACER HEIGHT=1 TYPE=block WIDTH=1></TD>
+			</TR>
+			
+				<TR>
+					<TD BGCOLOR="#F0F1F1" HEIGHT=5><SPACER HEIGHT=1 TYPE=block WIDTH=1></TD>
+				</TR>
+			
+		</TABLE>
+
+		
+
+			
+			
+  <div class="list">
+    <div id="holder1">
+      <div id="MinHeightFix391"></div>
+      <DIV class="path" style="border-bottom:1px solid #9db528; margin-left: 9px">
+  <table cellspacing="0" cellpadding="0" border="0" width="702">
+    <tr>
+      <td width="100%">
+        <span class="centeredText">
+          
+        
+        
+        
+        
+          Power Search Results
+          |
+          Found songs:
+          <span class="searchword">
+            155
+          </span>
+        
+      
+        </span>
+      </td>
+      
+      
+        <td align="RIGHT">
+          <div class="notfound">
+            <a href="/My/musicRequest">Music not found?</a>
+          </div>
+        </td>
+      
+    </tr>
+  </table>
+</DIV>
+      
+      
+	<DIV class="headerRow">
+		<TABLE CELLPADDING=0 BORDER=0 WIDTH=705 CELLSPACING=0>
+			<TR>
+				<TD WIDTH=20>&nbsp;</TD>
+				<TD align="left" style="padding-left: 6px"><SPAN CLASS=tit>Name</SPAN></TD><TD align="left" width="90"><SPAN CLASS=tit>Artist</SPAN></TD><TD align="left" width="150"><SPAN CLASS=tit>Album</SPAN></TD><TD align="center" width="50"><SPAN CLASS=tit>Time</SPAN></TD><TD align="center" width="55"><SPAN CLASS=tit>Bitrate</SPAN></TD><TD align="center" width="50"><SPAN CLASS=tit>Price</SPAN></TD>
+				<TD WIDTH=34>&nbsp;</TD>
+			</TR>
+		</TABLE>
+	</DIV>
+	<form name="f_0_1_0_0_33_1_19_19_1_5_3" method="post" style="margin:0px" action="/wo/0.0.1.0.0.33.1.19.19.1.5.3">
+		<DIV id="wn1">
+			<DIV ID=lyr1 >
+				<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 CLASS=tbllist WIDTH=705>
+					<TR class="off" id="row_0">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837492.mp3"></div>
+</div>
+
+  <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/player/soundmanager2.js?1289764658576"></script>
+  <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/player/jquery-1.2.6.min.js?1289764658576"></script>
+  <script type="text/javascript" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/player/lsplayer.js?1289764658576"></script>
+  <script type="text/javascript">
+    soundManager.url = '/WebObjects/LegalSounds.woa/Contents/WebServerResources/player/';
+    soundManager.debugMode = false;
+    soundManager.nullURL = '/WebObjects/LegalSounds.woa/Contents/WebServerResources/player/null.mp3289764658576'
+    soundManager.onload = function() { 
+	  lsPlayer = new LSPlayer();
+	  lsPlayer.touchURL = '/LSSongPreviewButton$KeepAliveSession/touch';
+	};
+  </script>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_0" type="hidden" value="0" name="song_0" /> <img border="0" height="13" onclick="selectSong(0)" id="checkbox_0" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_1">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837487.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_1" type="hidden" value="0" name="song_1" /> <img border="0" height="13" onclick="selectSong(1)" id="checkbox_1" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_2">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837486.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rockferry</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">4:13</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_2" type="hidden" value="0" name="song_2" /> <img border="0" height="13" onclick="selectSong(2)" id="checkbox_2" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_3">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837489.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_3" type="hidden" value="0" name="song_3" /> <img border="0" height="13" onclick="selectSong(3)" id="checkbox_3" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_4">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837490.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Syrup &amp; Honey</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:18</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_4" type="hidden" value="0" name="song_4" /> <img border="0" height="13" onclick="selectSong(4)" id="checkbox_4" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_5">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837488.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Serious</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">4:11</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_5" type="hidden" value="0" name="song_5" /> <img border="0" height="13" onclick="selectSong(5)" id="checkbox_5" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_6">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837495.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Distant Dreamer</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">5:05</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_6" type="hidden" value="0" name="song_6" /> <img border="0" height="13" onclick="selectSong(6)" id="checkbox_6" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_7">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837494.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">I'm Scared</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:09</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_7" type="hidden" value="0" name="song_7" /> <img border="0" height="13" onclick="selectSong(7)" id="checkbox_7" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_8">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837491.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Hanging On Too Long</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">3:56</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_8" type="hidden" value="0" name="song_8" /> <img border="0" height="13" onclick="selectSong(8)" id="checkbox_8" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_9">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/80447/837493.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Delayed Devotion</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry/album_80447">
+
+  Rockferry
+
+</a>
+</TD><TD align="center" width="50">2:58</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_9" type="hidden" value="0" name="song_9" /> <img border="0" height="13" onclick="selectSong(9)" id="checkbox_9" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_10">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/91111/985879.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-that%27s-what-i-call-music%21-70-%28cd-1%29/album_91111">
+
+  Now That's What I Call Music! 70 (CD 1)
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_10" type="hidden" value="0" name="song_10" /> <img border="0" height="13" onclick="selectSong(10)" id="checkbox_10" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_11">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/40620/86522/905845.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy%282%29/artist_40620">
+
+  Duffy(2)
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/bravo-hits-vol.-61-%282-cd%29/album_86522">
+
+  Bravo Hits Vol. 61 (2 CD)
+
+</a>
+</TD><TD align="center" width="50">3:42</TD><TD align="center" width="55">185&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_11" type="hidden" value="0" name="song_11" /> <img border="0" height="13" onclick="selectSong(11)" id="checkbox_11" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_12">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/86547/906799.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-that%27s-what-i-call-music-vol.-69-%282-cd%29/album_86547">
+
+  Now That's What I Call Music Vol. 69 (2 CD)
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">185&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_12" type="hidden" value="0" name="song_12" /> <img border="0" height="13" onclick="selectSong(12)" id="checkbox_12" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_13">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/106420/1158362.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade  (Single Version)</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/cd-club-promo-only-january-part-1/album_106420">
+
+  CD Club Promo Only January Part 1
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">225&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_13" type="hidden" value="0" name="song_13" /> <img border="0" height="13" onclick="selectSong(13)" id="checkbox_13" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_14">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/167313/1891098.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-thats-what-i-call-music-72---cd-2/album_167313">
+
+  Now Thats What I Call Music 72 - Cd 2
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_14" type="hidden" value="0" name="song_14" /> <img border="0" height="13" onclick="selectSong(14)" id="checkbox_14" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_15">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/92250/1002066.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/100x-soul/album_92250">
+
+  100X Soul
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">181&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_15" type="hidden" value="0" name="song_15" /> <img border="0" height="13" onclick="selectSong(15)" id="checkbox_15" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_16">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/106534/1159965.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain on Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/future-dance-hits-vol.72-bootleg/album_106534">
+
+  Future Dance Hits Vol.72 Bootleg
+
+</a>
+</TD><TD align="center" width="50">3:30</TD><TD align="center" width="55">174&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_16" type="hidden" value="0" name="song_16" /> <img border="0" height="13" onclick="selectSong(16)" id="checkbox_16" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_17">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/227875/2375486.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">kiss me</TD><TD align="left" width="170">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/ministry-of-sound-anthems-electronic-80s/album_227875">
+
+  Ministry Of Sound Anthems Electronic 80s
+
+</a>
+</TD><TD align="center" width="50">3:26</TD><TD align="center" width="55">220&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_17" type="hidden" value="0" name="song_17" /> <img border="0" height="13" onclick="selectSong(17)" id="checkbox_17" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_18">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/236146/2432960.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stay With Me Baby</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/pirate-radio/album_236146">
+
+  Pirate Radio
+
+</a>
+</TD><TD align="center" width="50">3:52</TD><TD align="center" width="55">175&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_18" type="hidden" value="0" name="song_18" /> <img border="0" height="13" onclick="selectSong(18)" id="checkbox_18" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_19">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/122457/1337044.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/bravo-hits-vol.-64/album_122457">
+
+  Bravo Hits Vol. 64
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">213&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_19" type="hidden" value="0" name="song_19" /> <img border="0" height="13" onclick="selectSong(19)" id="checkbox_19" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_20">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/40946/86542/906568.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy%281%29/artist_40946">
+
+  Duffy(1)
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-45-%282-cd%29/album_86542">
+
+  Hitzone 45 (2 CD)
+
+</a>
+</TD><TD align="center" width="50">3:43</TD><TD align="center" width="55">185&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_20" type="hidden" value="0" name="song_20" /> <img border="0" height="13" onclick="selectSong(20)" id="checkbox_20" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_21">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/92276/1002736.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/the-dome-vol.46-%282cd%29/album_92276">
+
+  The Dome Vol.46 (2CD)
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_21" type="hidden" value="0" name="song_21" /> <img border="0" height="13" onclick="selectSong(21)" id="checkbox_21" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_22">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/91355/989881.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/absolute-summer-hits-2008-%28cd.1%29/album_91355">
+
+  Absolute Summer Hits 2008 (CD.1)
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">160&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_22" type="hidden" value="0" name="song_22" /> <img border="0" height="13" onclick="selectSong(22)" id="checkbox_22" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_23">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/104916/1140504.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Save It For Your Prayers</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live-from-london-ep/album_104916">
+
+  Live From London EP
+
+</a>
+</TD><TD align="center" width="50">3:07</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_23" type="hidden" value="0" name="song_23" /> <img border="0" height="13" onclick="selectSong(23)" id="checkbox_23" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_24">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054376.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">222&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_24" type="hidden" value="0" name="song_24" /> <img border="0" height="13" onclick="selectSong(24)" id="checkbox_24" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_25">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/104916/1140501.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Tomorrow</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live-from-london-ep/album_104916">
+
+  Live From London EP
+
+</a>
+</TD><TD align="center" width="50">3:17</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_25" type="hidden" value="0" name="song_25" /> <img border="0" height="13" onclick="selectSong(25)" id="checkbox_25" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_26">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/104916/1140503.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Breaking My Own Heart</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live-from-london-ep/album_104916">
+
+  Live From London EP
+
+</a>
+</TD><TD align="center" width="50">4:41</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_26" type="hidden" value="0" name="song_26" /> <img border="0" height="13" onclick="selectSong(26)" id="checkbox_26" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_27">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/104916/1140500.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live-from-london-ep/album_104916">
+
+  Live From London EP
+
+</a>
+</TD><TD align="center" width="50">4:00</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_27" type="hidden" value="0" name="song_27" /> <img border="0" height="13" onclick="selectSong(27)" id="checkbox_27" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_28">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054378.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stop</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">4:10</TD><TD align="center" width="55">200&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_28" type="hidden" value="0" name="song_28" /> <img border="0" height="13" onclick="selectSong(28)" id="checkbox_28" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_29">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054379.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Oh Boy</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">2:30</TD><TD align="center" width="55">149&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_29" type="hidden" value="0" name="song_29" /> <img border="0" height="13" onclick="selectSong(29)" id="checkbox_29" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_30">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054380.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Please Stay</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:27</TD><TD align="center" width="55">159&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_30" type="hidden" value="0" name="song_30" /> <img border="0" height="13" onclick="selectSong(30)" id="checkbox_30" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_31">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054382.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Enough Love</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:19</TD><TD align="center" width="55">205&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_31" type="hidden" value="0" name="song_31" /> <img border="0" height="13" onclick="selectSong(31)" id="checkbox_31" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_32">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054381.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Breaking My Own Heart</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:58</TD><TD align="center" width="55">200&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_32" type="hidden" value="0" name="song_32" /> <img border="0" height="13" onclick="selectSong(32)" id="checkbox_32" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_33">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187400/2054377.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Fool For You</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-2%29/album_187400">
+
+  Rockferry Deluxe Edition (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:46</TD><TD align="center" width="55">171&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_33" type="hidden" value="0" name="song_33" /> <img border="0" height="13" onclick="selectSong(33)" id="checkbox_33" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_34">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/367230/3351860.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Well, Well, Well</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/well%2C-well%2C-well/album_367230">
+
+  Well, Well, Well
+
+</a>
+</TD><TD align="center" width="50">2:45</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_34" type="hidden" value="0" name="song_34" /> <img border="0" height="13" onclick="selectSong(34)" id="checkbox_34" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_35">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/104916/1140502.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rockferry</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live-from-london-ep/album_104916">
+
+  Live From London EP
+
+</a>
+</TD><TD align="center" width="50">4:18</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_35" type="hidden" value="0" name="song_35" /> <img border="0" height="13" onclick="selectSong(35)" id="checkbox_35" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_36">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/92275/1002696.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/the-dome-summer-2008-%282cd%29/album_92275">
+
+  The Dome Summer 2008 (2CD)
+
+</a>
+</TD><TD align="center" width="50">3:05</TD><TD align="center" width="55">196&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_36" type="hidden" value="0" name="song_36" /> <img border="0" height="13" onclick="selectSong(36)" id="checkbox_36" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_37">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/45265/91049/984777.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake</TD><TD align="left" width="170">
+
+<a href="/download-mp3/stephen-tin-tin-duffy/artist_45265">
+
+  Stephen Tin Tin Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-that%27s-what-i-call-music-5---disc-1/album_91049">
+
+  Now That's What I Call Music 5 - Disc 1
+
+</a>
+</TD><TD align="center" width="50">5:15</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_37" type="hidden" value="0" name="song_37" /> <img border="0" height="13" onclick="selectSong(37)" id="checkbox_37" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_38">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/154754/1692701.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/2009-grammy-nominees/album_154754">
+
+  2009 Grammy Nominees
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">185&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_38" type="hidden" value="0" name="song_38" /> <img border="0" height="13" onclick="selectSong(38)" id="checkbox_38" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_39">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054372.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_39" type="hidden" value="0" name="song_39" /> <img border="0" height="13" onclick="selectSong(39)" id="checkbox_39" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_40">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054367.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">180&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_40" type="hidden" value="0" name="song_40" /> <img border="0" height="13" onclick="selectSong(40)" id="checkbox_40" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_41">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054373.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Delayed Devotion</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">2:58</TD><TD align="center" width="55">164&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_41" type="hidden" value="0" name="song_41" /> <img border="0" height="13" onclick="selectSong(41)" id="checkbox_41" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_42">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054366.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rockferry</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">4:13</TD><TD align="center" width="55">225&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_42" type="hidden" value="0" name="song_42" /> <img border="0" height="13" onclick="selectSong(42)" id="checkbox_42" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_43">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054371.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Hanging On Too Long</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:56</TD><TD align="center" width="55">189&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_43" type="hidden" value="0" name="song_43" /> <img border="0" height="13" onclick="selectSong(43)" id="checkbox_43" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_44">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054369.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">181&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_44" type="hidden" value="0" name="song_44" /> <img border="0" height="13" onclick="selectSong(44)" id="checkbox_44" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_45">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110447.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Borderline Madonna Cover</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">3:38</TD><TD align="center" width="55">190&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_45" type="hidden" value="0" name="song_45" /> <img border="0" height="13" onclick="selectSong(45)" id="checkbox_45" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_46">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054368.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Serious</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">4:11</TD><TD align="center" width="55">196&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_46" type="hidden" value="0" name="song_46" /> <img border="0" height="13" onclick="selectSong(46)" id="checkbox_46" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_47">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054370.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Syrup &amp; Honey</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:18</TD><TD align="center" width="55">146&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_47" type="hidden" value="0" name="song_47" /> <img border="0" height="13" onclick="selectSong(47)" id="checkbox_47" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_48">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054375.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Distant Dreamer</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">5:05</TD><TD align="center" width="55">229&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_48" type="hidden" value="0" name="song_48" /> <img border="0" height="13" onclick="selectSong(48)" id="checkbox_48" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_49">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/122478/1337552.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/megahits-2009-die-erste/album_122478">
+
+  Megahits 2009 Die Erste
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">216&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_49" type="hidden" value="0" name="song_49" /> <img border="0" height="13" onclick="selectSong(49)" id="checkbox_49" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_50">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/187399/2054374.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">I'm Scared</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/rockferry-deluxe-edition-%28cd-1%29/album_187399">
+
+  Rockferry Deluxe Edition (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:09</TD><TD align="center" width="55">162&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_50" type="hidden" value="0" name="song_50" /> <img border="0" height="13" onclick="selectSong(50)" id="checkbox_50" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_51">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110453.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Syrup And Honey</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">2:22</TD><TD align="center" width="55">187&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_51" type="hidden" value="0" name="song_51" /> <img border="0" height="13" onclick="selectSong(51)" id="checkbox_51" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_52">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110451.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rockferry</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">4:11</TD><TD align="center" width="55">203&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_52" type="hidden" value="0" name="song_52" /> <img border="0" height="13" onclick="selectSong(52)" id="checkbox_52" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_53">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110450.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">3:52</TD><TD align="center" width="55">190&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_53" type="hidden" value="0" name="song_53" /> <img border="0" height="13" onclick="selectSong(53)" id="checkbox_53" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_54">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110452.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Serious</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">4:25</TD><TD align="center" width="55">197&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_54" type="hidden" value="0" name="song_54" /> <img border="0" height="13" onclick="selectSong(54)" id="checkbox_54" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_55">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110454.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Ave</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">3:46</TD><TD align="center" width="55">189&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_55" type="hidden" value="0" name="song_55" /> <img border="0" height="13" onclick="selectSong(55)" id="checkbox_55" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_56">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/110641/1203478.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-45-%28cd-1%29/album_110641">
+
+  Hitzone 45 (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:43</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_56" type="hidden" value="0" name="song_56" /> <img border="0" height="13" onclick="selectSong(56)" id="checkbox_56" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_57">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110449.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Hanging On Too Long</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">3:49</TD><TD align="center" width="55">188&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_57" type="hidden" value="0" name="song_57" /> <img border="0" height="13" onclick="selectSong(57)" id="checkbox_57" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_58">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/192458/2110448.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Breaking My Own Heart</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy/live/album_192458">
+
+  Live
+
+</a>
+</TD><TD align="center" width="50">4:55</TD><TD align="center" width="55">200&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_58" type="hidden" value="0" name="song_58" /> <img border="0" height="13" onclick="selectSong(58)" id="checkbox_58" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_59">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/273361/2686972.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake (Remix)</TD><TD align="left" width="170">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/80s-12/album_273361">
+
+  80s 12
+
+</a>
+</TD><TD align="center" width="50">7:09</TD><TD align="center" width="55">211&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_59" type="hidden" value="0" name="song_59" /> <img border="0" height="13" onclick="selectSong(59)" id="checkbox_59" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_60">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/133274/1448874.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy (Gareth Wyn Remix)</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/anticaribe-%28cd-1%29/album_133274">
+
+  Anticaribe (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">6:23</TD><TD align="center" width="55">127&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_60" type="hidden" value="0" name="song_60" /> <img border="0" height="13" onclick="selectSong(60)" id="checkbox_60" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_61">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/122474/1337481.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/je-t%27aime-2009/album_122474">
+
+  Je T'aime 2009
+
+</a>
+</TD><TD align="center" width="50">3:31</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_61" type="hidden" value="0" name="song_61" /> <img border="0" height="13" onclick="selectSong(61)" id="checkbox_61" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_62">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491044.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Kiss Me</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:32</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_62" type="hidden" value="0" name="song_62" /> <img border="0" height="13" onclick="selectSong(62)" id="checkbox_62" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_63">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/111037/1209954.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/the-essential-album-%28cd-1%29/album_111037">
+
+  The Essential Album (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_63" type="hidden" value="0" name="song_63" /> <img border="0" height="13" onclick="selectSong(63)" id="checkbox_63" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_64">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/122487/1337782.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/superventas-2009/album_122487">
+
+  Superventas 2009
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">222&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_64" type="hidden" value="0" name="song_64" /> <img border="0" height="13" onclick="selectSong(64)" id="checkbox_64" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_65">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/110644/1203534.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-47-%28cd-2%29/album_110644">
+
+  Hitzone 47 (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">177&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_65" type="hidden" value="0" name="song_65" /> <img border="0" height="13" onclick="selectSong(65)" id="checkbox_65" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_66">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/231429/2400685.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-big-hits-2009/album_231429">
+
+  Now Big Hits 2009
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">222&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_66" type="hidden" value="0" name="song_66" /> <img border="0" height="13" onclick="selectSong(66)" id="checkbox_66" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_67">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/167188/1838654.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-48---cd-2/album_167188">
+
+  Hitzone 48 - Cd 2
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">221&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_67" type="hidden" value="0" name="song_67" /> <img border="0" height="13" onclick="selectSong(67)" id="checkbox_67" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_68">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/115936/1263716.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/music-en-vogue-%28cd-1%29/album_115936">
+
+  Music En Vogue (Cd 1)
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">184&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_68" type="hidden" value="0" name="song_68" /> <img border="0" height="13" onclick="selectSong(68)" id="checkbox_68" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_69">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/227333/2371945.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/women-the-best-2009/album_227333">
+
+  Women The Best 2009
+
+</a>
+</TD><TD align="center" width="50">3:31</TD><TD align="center" width="55">175&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_69" type="hidden" value="0" name="song_69" /> <img border="0" height="13" onclick="selectSong(69)" id="checkbox_69" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_70">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/183768/2015323.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/top-40-singles-uk-%2827-07-08%29-%28cd-4%29/album_183768">
+
+  Top 40 Singles Uk (27-07-08) (Cd 4)
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_70" type="hidden" value="0" name="song_70" /> <img border="0" height="13" onclick="selectSong(70)" id="checkbox_70" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_71">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/218724/2308548.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/sky-radio-top-50-2009/album_218724">
+
+  Sky Radio Top 50 2009
+
+</a>
+</TD><TD align="center" width="50">3:43</TD><TD align="center" width="55">184&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_71" type="hidden" value="0" name="song_71" /> <img border="0" height="13" onclick="selectSong(71)" id="checkbox_71" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_72">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/190537/2089566.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-49-cd1/album_190537">
+
+  Hitzone 49 Cd1
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">256&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_72" type="hidden" value="0" name="song_72" /> <img border="0" height="13" onclick="selectSong(72)" id="checkbox_72" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_73">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/159035/1748180.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade (Spot Wind Telecomuicazioni)</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/top-of-the-spot/album_159035">
+
+  Top of the spot
+
+</a>
+</TD><TD align="center" width="50">3:30</TD><TD align="center" width="55">231&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_73" type="hidden" value="0" name="song_73" /> <img border="0" height="13" onclick="selectSong(73)" id="checkbox_73" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_74">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/253388/2552753.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/100x-liefde/album_253388">
+
+  100X Liefde
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">183&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_74" type="hidden" value="0" name="song_74" /> <img border="0" height="13" onclick="selectSong(74)" id="checkbox_74" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_75">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/183766/2015296.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/top-40-singles-uk-%2827-07-08%29-%28cd-2%29/album_183766">
+
+  Top 40 Singles Uk (27-07-08) (Cd 2)
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_75" type="hidden" value="0" name="song_75" /> <img border="0" height="13" onclick="selectSong(75)" id="checkbox_75" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_76">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449740.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Unkiss That Kiss</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">3:38</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_76" type="hidden" value="0" name="song_76" /> <img border="0" height="13" onclick="selectSong(76)" id="checkbox_76" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_77">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/140323/1533663.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/partymix-summer/album_140323">
+
+  Partymix Summer
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">144&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_77" type="hidden" value="0" name="song_77" /> <img border="0" height="13" onclick="selectSong(77)" id="checkbox_77" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_78">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/167265/1839359.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/maximum-hit-music-vol.1/album_167265">
+
+  Maximum Hit Music Vol.1
+
+</a>
+</TD><TD align="center" width="50">3:26</TD><TD align="center" width="55">177&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_78" type="hidden" value="0" name="song_78" /> <img border="0" height="13" onclick="selectSong(78)" id="checkbox_78" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_79">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449741.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">I Love You</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">3:58</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_79" type="hidden" value="0" name="song_79" /> <img border="0" height="13" onclick="selectSong(79)" id="checkbox_79" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_80">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449742.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">When You Go To Bed</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">4:27</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_80" type="hidden" value="0" name="song_80" /> <img border="0" height="13" onclick="selectSong(80)" id="checkbox_80" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_81">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/239725/2457697.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/kunffelrock-2010/album_239725">
+
+  Kunffelrock 2010
+
+</a>
+</TD><TD align="center" width="50">3:32</TD><TD align="center" width="55">179&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_81" type="hidden" value="0" name="song_81" /> <img border="0" height="13" onclick="selectSong(81)" id="checkbox_81" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_82">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/188285/2064618.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/absolute-music-60---cd-1/album_188285">
+
+  Absolute Music 60 - Cd 1
+
+</a>
+</TD><TD align="center" width="50">3:27</TD><TD align="center" width="55">229&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_82" type="hidden" value="0" name="song_82" /> <img border="0" height="13" onclick="selectSong(82)" id="checkbox_82" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_83">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/228986/2384133.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/die-ultimative-chartshow-%28die-erfolgreichsten-download-hits-aller-zeiten%29/album_228986">
+
+  Die Ultimative Chartshow (Die Erfolgreichsten Download-Hits Aller Zeiten)
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">184&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_83" type="hidden" value="0" name="song_83" /> <img border="0" height="13" onclick="selectSong(83)" id="checkbox_83" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_84">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/45265/145162/1590218.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake</TD><TD align="left" width="170">
+
+<a href="/download-mp3/stephen-tin-tin-duffy/artist_45265">
+
+  Stephen Tin Tin Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/now-5-%28cd-1%29/album_145162">
+
+  Now 5 (CD 1)
+
+</a>
+</TD><TD align="center" width="50">5:15</TD><TD align="center" width="55">137&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_84" type="hidden" value="0" name="song_84" /> <img border="0" height="13" onclick="selectSong(84)" id="checkbox_84" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_85">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449738.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Sunday Supplement</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">4:35</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_85" type="hidden" value="0" name="song_85" /> <img border="0" height="13" onclick="selectSong(85)" id="checkbox_85" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_86">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449736.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Something Special</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">4:55</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_86" type="hidden" value="0" name="song_86" /> <img border="0" height="13" onclick="selectSong(86)" id="checkbox_86" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_87">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449743.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Love Station</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">4:26</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_87" type="hidden" value="0" name="song_87" /> <img border="0" height="13" onclick="selectSong(87)" id="checkbox_87" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_88">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/224438/2352364.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/girls-night-in/album_224438">
+
+  Girls Night In
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_88" type="hidden" value="0" name="song_88" /> <img border="0" height="13" onclick="selectSong(88)" id="checkbox_88" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_89">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/236448/2434994.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain on Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/die-ultimative-chartshow-%28die-erfolgreichsten-hits-2009%29/album_236448">
+
+  Die Ultimative Chartshow (Die Erfolgreichsten Hits 2009)
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">217&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_89" type="hidden" value="0" name="song_89" /> <img border="0" height="13" onclick="selectSong(89)" id="checkbox_89" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_90">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449746.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">I Love You (Diversion)</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">6:50</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_90" type="hidden" value="0" name="song_90" /> <img border="0" height="13" onclick="selectSong(90)" id="checkbox_90" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_91">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449737.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">A Lot Of Ink</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">4:44</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_91" type="hidden" value="0" name="song_91" /> <img border="0" height="13" onclick="selectSong(91)" id="checkbox_91" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_92">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/150513/227874/2375440.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Trust in Me</TD><TD align="left" width="170">
+
+<a href="/download-mp3/dj-hen-boogie-feat.-suzy-duffy/artist_150513">
+
+  DJ Hen Boogie Feat. Suzy Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/lounge-du-soleil-vol.8/album_227874">
+
+  Lounge Du Soleil Vol.8
+
+</a>
+</TD><TD align="center" width="50">6:02</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_92" type="hidden" value="0" name="song_92" /> <img border="0" height="13" onclick="selectSong(92)" id="checkbox_92" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_93">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449739.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Why Shouldn't I (Love You)</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">5:01</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_93" type="hidden" value="0" name="song_93" /> <img border="0" height="13" onclick="selectSong(93)" id="checkbox_93" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_94">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449745.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Julie Christine</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">5:17</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_94" type="hidden" value="0" name="song_94" /> <img border="0" height="13" onclick="selectSong(94)" id="checkbox_94" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_95">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/133347/1449744.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">We'll Never Argue</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/because-we-love-you/album_133347">
+
+  Because We Love You
+
+</a>
+</TD><TD align="center" width="50">5:19</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_95" type="hidden" value="0" name="song_95" /> <img border="0" height="13" onclick="selectSong(95)" id="checkbox_95" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_96">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/208633/2239526.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/chart-audio-hits-09-01/album_208633">
+
+  Chart Audio Hits 09-01
+
+</a>
+</TD><TD align="center" width="50">3:27</TD><TD align="center" width="55">171&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_96" type="hidden" value="0" name="song_96" /> <img border="0" height="13" onclick="selectSong(96)" id="checkbox_96" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_97">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/229464/2387653.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/pure-top-hits-2009/album_229464">
+
+  Pure Top Hits 2009
+
+</a>
+</TD><TD align="center" width="50">3:38</TD><TD align="center" width="55">187&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_97" type="hidden" value="0" name="song_97" /> <img border="0" height="13" onclick="selectSong(97)" id="checkbox_97" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_98">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/263649/2623592.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/happy-together/album_263649">
+
+  Happy Together
+
+</a>
+</TD><TD align="center" width="50">3:46</TD><TD align="center" width="55">171&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_98" type="hidden" value="0" name="song_98" /> <img border="0" height="13" onclick="selectSong(98)" id="checkbox_98" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_99">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/190786/2092541.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rain On Your Parade</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/los-numero-1-de-cadena-100---cd-1/album_190786">
+
+  Los Numero 1 De Cadena 100 - Cd 1
+
+</a>
+</TD><TD align="center" width="50">3:28</TD><TD align="center" width="55">223&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_99" type="hidden" value="0" name="song_99" /> <img border="0" height="13" onclick="selectSong(99)" id="checkbox_99" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_100">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/221746/2329668.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/liebe-ist...best-of-%28limited-edition%29/album_221746">
+
+  Liebe Ist...Best of (Limited Edition)
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">178&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_100" type="hidden" value="0" name="song_100" /> <img border="0" height="13" onclick="selectSong(100)" id="checkbox_100" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_101">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491038.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">A Masterpiece</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">5:35</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_101" type="hidden" value="0" name="song_101" /> <img border="0" height="13" onclick="selectSong(101)" id="checkbox_101" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_102">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491045.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">She Makes Me Quiver</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">4:12</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_102" type="hidden" value="0" name="song_102" /> <img border="0" height="13" onclick="selectSong(102)" id="checkbox_102" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_103">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/185436/2032149.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/deutsche-single-charts-top100-cd10/album_185436">
+
+  Deutsche Single Charts Top100 Cd10
+
+</a>
+</TD><TD align="center" width="50">3:39</TD><TD align="center" width="55">224&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_103" type="hidden" value="0" name="song_103" /> <img border="0" height="13" onclick="selectSong(103)" id="checkbox_103" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_104">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491046.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The Darkest Blues</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:19</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_104" type="hidden" value="0" name="song_104" /> <img border="0" height="13" onclick="selectSong(104)" id="checkbox_104" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_105">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491039.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Be There</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:31</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_105" type="hidden" value="0" name="song_105" /> <img border="0" height="13" onclick="selectSong(105)" id="checkbox_105" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_106">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491047.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The World At Large Alone</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:44</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_106" type="hidden" value="0" name="song_106" /> <img border="0" height="13" onclick="selectSong(106)" id="checkbox_106" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_107">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491040.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Believe In Me</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">4:28</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_107" type="hidden" value="0" name="song_107" /> <img border="0" height="13" onclick="selectSong(107)" id="checkbox_107" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_108">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491041.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">But Is It Art?</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_108" type="hidden" value="0" name="song_108" /> <img border="0" height="13" onclick="selectSong(108)" id="checkbox_108" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_109">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491049.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Wednesday Jones</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">2:10</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_109" type="hidden" value="0" name="song_109" /> <img border="0" height="13" onclick="selectSong(109)" id="checkbox_109" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_110">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/175455/253984/2556989.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Abacus</TD><TD align="left" width="170">
+
+<a href="/download-mp3/simon-duffy-%26-alex-whitcombe/artist_175455">
+
+  Simon Duffy &amp; Alex Whitcombe
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/ministry-of-sound-club_--s.o.s./album_253984">
+
+  Ministry Of Sound Club: S.O.S.
+
+</a>
+</TD><TD align="center" width="50">9:04</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_110" type="hidden" value="0" name="song_110" /> <img border="0" height="13" onclick="selectSong(110)" id="checkbox_110" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_111">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074981.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Sugar High Slow Version</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:00</TD><TD align="center" width="55">169&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_111" type="hidden" value="0" name="song_111" /> <img border="0" height="13" onclick="selectSong(111)" id="checkbox_111" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_112">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074966.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">London Girls</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">3:16</TD><TD align="center" width="55">178&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_112" type="hidden" value="0" name="song_112" /> <img border="0" height="13" onclick="selectSong(112)" id="checkbox_112" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_113">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/122477/1337527.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/mcmusic-43/album_122477">
+
+  Mcmusic 43
+
+</a>
+</TD><TD align="center" width="50">3:39</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_113" type="hidden" value="0" name="song_113" /> <img border="0" height="13" onclick="selectSong(113)" id="checkbox_113" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_114">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491042.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake (12' Mix)</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">5:13</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_114" type="hidden" value="0" name="song_114" /> <img border="0" height="13" onclick="selectSong(114)" id="checkbox_114" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_115">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/227234/317290/2980680.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Lucky</TD><TD align="left" width="170">
+
+<a href="/download-mp3/lemongrass-feat.-suzy-duffy/artist_227234">
+
+  Lemongrass feat. Suzy Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/the-5th-dimension/album_317290">
+
+  The 5th Dimension
+
+</a>
+</TD><TD align="center" width="50">4:04</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_115" type="hidden" value="0" name="song_115" /> <img border="0" height="13" onclick="selectSong(115)" id="checkbox_115" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_116">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491048.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Wednesday Jones (Dixie Version)</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">3:54</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_116" type="hidden" value="0" name="song_116" /> <img border="0" height="13" onclick="selectSong(116)" id="checkbox_116" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_117">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/183715/2014819.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/tipparade-week-07/album_183715">
+
+  Tipparade Week 07
+
+</a>
+</TD><TD align="center" width="50">3:43</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_117" type="hidden" value="0" name="song_117" /> <img border="0" height="13" onclick="selectSong(117)" id="checkbox_117" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_118">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/45265/350930/3228176.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake</TD><TD align="left" width="170">
+
+<a href="/download-mp3/stephen-tin-tin-duffy/artist_45265">
+
+  Stephen Tin Tin Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/80%27s-pop---111-original-hits/album_350930">
+
+  80's Pop - 111 Original Hits
+
+</a>
+</TD><TD align="center" width="50">3:51</TD><TD align="center" width="55">192&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_118" type="hidden" value="0" name="song_118" /> <img border="0" height="13" onclick="selectSong(118)" id="checkbox_118" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_119">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/136733/1491043.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Icing On The Cake</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/the-ups-and-downs---a-very-beautiful-collection/album_136733">
+
+  The Ups And Downs - A Very Beautiful Collection
+
+</a>
+</TD><TD align="center" width="50">5:15</TD><TD align="center" width="55">128&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_119" type="hidden" value="0" name="song_119" /> <img border="0" height="13" onclick="selectSong(119)" id="checkbox_119" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_120">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/185444/2032231.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/deutsche-single-charts-top100-cd9/album_185444">
+
+  Deutsche Single Charts Top100 Cd9
+
+</a>
+</TD><TD align="center" width="50">3:46</TD><TD align="center" width="55">224&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_120" type="hidden" value="0" name="song_120" /> <img border="0" height="13" onclick="selectSong(120)" id="checkbox_120" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_121">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/276197/2708321.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">warwick avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/swr3-new-pop-festival-vol.-2/album_276197">
+
+  SWR3 New Pop Festival Vol. 2
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">179&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_121" type="hidden" value="0" name="song_121" /> <img border="0" height="13" onclick="selectSong(121)" id="checkbox_121" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_122">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074977.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">You Me God</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:15</TD><TD align="center" width="55">167&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_122" type="hidden" value="0" name="song_122" /> <img border="0" height="13" onclick="selectSong(122)" id="checkbox_122" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_123">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074976.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Smitten</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:53</TD><TD align="center" width="55">156&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_123" type="hidden" value="0" name="song_123" /> <img border="0" height="13" onclick="selectSong(123)" id="checkbox_123" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_124">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074973.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Starfit</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">2:35</TD><TD align="center" width="55">172&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_124" type="hidden" value="0" name="song_124" /> <img border="0" height="13" onclick="selectSong(124)" id="checkbox_124" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_125">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074967.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Sugar High</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">3:48</TD><TD align="center" width="55">177&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_125" type="hidden" value="0" name="song_125" /> <img border="0" height="13" onclick="selectSong(125)" id="checkbox_125" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_126">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074974.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mr 20Th Century Man</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">174&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_126" type="hidden" value="0" name="song_126" /> <img border="0" height="13" onclick="selectSong(126)" id="checkbox_126" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_127">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074975.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Rachel</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:21</TD><TD align="center" width="55">174&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_127" type="hidden" value="0" name="song_127" /> <img border="0" height="13" onclick="selectSong(127)" id="checkbox_127" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_128">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074972.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Ghetto Child</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">5:11</TD><TD align="center" width="55">150&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_128" type="hidden" value="0" name="song_128" /> <img border="0" height="13" onclick="selectSong(128)" id="checkbox_128" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_129">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074978.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The Waitress Story</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:19</TD><TD align="center" width="55">146&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_129" type="hidden" value="0" name="song_129" /> <img border="0" height="13" onclick="selectSong(129)" id="checkbox_129" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_130">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074982.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Jane</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">3:54</TD><TD align="center" width="55">170&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_130" type="hidden" value="0" name="song_130" /> <img border="0" height="13" onclick="selectSong(130)" id="checkbox_130" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_131">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074971.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The Kids In Every Corner</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:51</TD><TD align="center" width="55">177&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_131" type="hidden" value="0" name="song_131" /> <img border="0" height="13" onclick="selectSong(131)" id="checkbox_131" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_132">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074970.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">A Child Is Waiting</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:37</TD><TD align="center" width="55">155&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_132" type="hidden" value="0" name="song_132" /> <img border="0" height="13" onclick="selectSong(132)" id="checkbox_132" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_133">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074968.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">She Freak</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:04</TD><TD align="center" width="55">171&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_133" type="hidden" value="0" name="song_133" /> <img border="0" height="13" onclick="selectSong(133)" id="checkbox_133" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_134">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074979.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The Girl Of The Year</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">4:57</TD><TD align="center" width="55">162&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_134" type="hidden" value="0" name="song_134" /> <img border="0" height="13" onclick="selectSong(134)" id="checkbox_134" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_135">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074969.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Needle Mythology</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">3:42</TD><TD align="center" width="55">168&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_135" type="hidden" value="0" name="song_135" /> <img border="0" height="13" onclick="selectSong(135)" id="checkbox_135" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_136">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/365382/3339737.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/die-ultimative-chartshow-hits-des-neuen-jahrtausends-%282000-2009%29/album_365382">
+
+  Die Ultimative Chartshow-Hits Des Neuen Jahrtausends (2000-2009)
+
+</a>
+</TD><TD align="center" width="50">3:41</TD><TD align="center" width="55">184&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_136" type="hidden" value="0" name="song_136" /> <img border="0" height="13" onclick="selectSong(136)" id="checkbox_136" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_137">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/115127/194153/2128207.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Duffy Glastonbury</TD><TD align="left" width="90">
+
+<a href="/download-mp3/duffy-glastonbury/artist_115127">
+
+  Duffy Glastonbury
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/duffy-glastonbury/duffy-glastonbury/album_194153">
+
+  Duffy Glastonbury
+
+</a>
+</TD><TD align="center" width="50">32:20</TD><TD align="center" width="55">207&nbsp;kbps</TD><TD align="center" width="50">$0.99</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_137" type="hidden" value="0" name="song_137" /> <img border="0" height="13" onclick="selectSong(137)" id="checkbox_137" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_138">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/316067/2970103.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/mijn-restaurant-2-cd1/album_316067">
+
+  Mijn Restaurant 2 CD1
+
+</a>
+</TD><TD align="center" width="50">3:45</TD><TD align="center" width="55">179&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_138" type="hidden" value="0" name="song_138" /> <img border="0" height="13" onclick="selectSong(138)" id="checkbox_138" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_139">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/80813/189225/2074980.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">A Vision Of Bliss</TD><TD align="left" width="90">
+
+<a href="/download-mp3/stephen-duffy/artist_80813">
+
+  Stephen Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/stephen-duffy/duffy/album_189225">
+
+  Duffy
+
+</a>
+</TD><TD align="center" width="50">0:07</TD><TD align="center" width="55">165&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_139" type="hidden" value="0" name="song_139" /> <img border="0" height="13" onclick="selectSong(139)" id="checkbox_139" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_140">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/183345/2010959.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/nrj-200%25-hits-volume-2/album_183345">
+
+  Nrj 200% Hits Volume 2
+
+</a>
+</TD><TD align="center" width="50">3:48</TD><TD align="center" width="55">179&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_140" type="hidden" value="0" name="song_140" /> <img border="0" height="13" onclick="selectSong(140)" id="checkbox_140" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_141">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/217673/305512/2898536.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Sugar Sugar</TD><TD align="left" width="170">
+
+<a href="/download-mp3/heartclub-feat-duffy/artist_217673">
+
+  Heartclub Feat Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/eurohit-96-vol.-3/album_305512">
+
+  Eurohit 96 Vol. 3
+
+</a>
+</TD><TD align="center" width="50">5:02</TD><TD align="center" width="55">204&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_141" type="hidden" value="0" name="song_141" /> <img border="0" height="13" onclick="selectSong(141)" id="checkbox_141" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_142">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/190571/2089879.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/tipparade-%28wk-15%29---cd-3/album_190571">
+
+  Tipparade (Wk 15) - Cd 3
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">155&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_142" type="hidden" value="0" name="song_142" /> <img border="0" height="13" onclick="selectSong(142)" id="checkbox_142" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_143">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/222581/2336716.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick Avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/for-fuld-musik-4/album_222581">
+
+  For Fuld Musik 4
+
+</a>
+</TD><TD align="center" width="50">3:48</TD><TD align="center" width="55">176&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_143" type="hidden" value="0" name="song_143" /> <img border="0" height="13" onclick="selectSong(143)" id="checkbox_143" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_144">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/283090/2753263.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/future-dance-hits-vol.75-bootleg/album_283090">
+
+  Future Dance Hits Vol.75 Bootleg
+
+</a>
+</TD><TD align="center" width="50">3:29</TD><TD align="center" width="55">174&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_144" type="hidden" value="0" name="song_144" /> <img border="0" height="13" onclick="selectSong(144)" id="checkbox_144" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_145">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/276189/2708076.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stay With Me Baby</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/radioplay-euro-express-824u/album_276189">
+
+  Radioplay Euro Express 824U
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">168&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_145" type="hidden" value="0" name="song_145" /> <img border="0" height="13" onclick="selectSong(145)" id="checkbox_145" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_146">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/375116/3407634.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Well, Well, Well (Final Version)</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/dj-promotion-cd-pool-pop-136/album_375116">
+
+  DJ Promotion CD Pool Pop 136
+
+</a>
+</TD><TD align="center" width="50">2:42</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_146" type="hidden" value="0" name="song_146" /> <img border="0" height="13" onclick="selectSong(146)" id="checkbox_146" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_147">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/213366/2270851.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/milosc-na-wybiegu/album_213366">
+
+  Milosc Na Wybiegu
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">186&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_147" type="hidden" value="0" name="song_147" /> <img border="0" height="13" onclick="selectSong(147)" id="checkbox_147" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_148">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/153075/230508/2394148.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Cycles (Original Mix)</TD><TD align="left" width="90">
+
+<a href="/download-mp3/alex-whitcombe-%26-simon-duffy/artist_153075">
+
+  Alex Whitcombe &amp; Simon Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/alex-whitcombe-%26-simon-duffy/cycles/album_230508">
+
+  Cycles
+
+</a>
+</TD><TD align="center" width="50">8:32</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_148" type="hidden" value="0" name="song_148" /> <img border="0" height="13" onclick="selectSong(148)" id="checkbox_148" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_149">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/287736/2787150.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stepping Stone</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/chart-boxx-vol.-4-%28top-13-music%29/album_287736">
+
+  Chart Boxx Vol. 4 (Top 13 Music)
+
+</a>
+</TD><TD align="center" width="50">3:30</TD><TD align="center" width="55">179&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_149" type="hidden" value="0" name="song_149" /> <img border="0" height="13" onclick="selectSong(149)" id="checkbox_149" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_150">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/338368/3127577.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/100x-zomer/album_338368">
+
+  100x Zomer
+
+</a>
+</TD><TD align="center" width="50">3:43</TD><TD align="center" width="55">184&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_150" type="hidden" value="0" name="song_150" /> <img border="0" height="13" onclick="selectSong(150)" id="checkbox_150" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_151">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/361488/3308707.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Warwick avenue</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/antena-1-i-love-hits/album_361488">
+
+  Antena 1 I Love Hits
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">172&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_151" type="hidden" value="0" name="song_151" /> <img border="0" height="13" onclick="selectSong(151)" id="checkbox_151" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_152">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/368083/3358007.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Mercy</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/hitzone-gold/album_368083">
+
+  Hitzone Gold
+
+</a>
+</TD><TD align="center" width="50">3:40</TD><TD align="center" width="55">176&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_152" type="hidden" value="0" name="song_152" /> <img border="0" height="13" onclick="selectSong(152)" id="checkbox_152" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_153">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/269137/371323/3381193.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">The Showman</TD><TD align="left" width="170">
+
+<a href="/download-mp3/frankie-rose-duffy/artist_269137">
+
+  Frankie Rose Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/quickstar-productions-presents_--come-clean%2C-vol.8/album_371323">
+
+  Quickstar Productions Presents: Come Clean, Vol.8
+
+</a>
+</TD><TD align="center" width="50">3:35</TD><TD align="center" width="55">320&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_153" type="hidden" value="0" name="song_153" /> <img border="0" height="13" onclick="selectSong(153)" id="checkbox_153" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					<TR class="off" id="row_154">
+							<TD ALIGN=CENTER CLASS=listen WIDTH=20><div class="preview">
+  <div href="/legalsounds/upload/Song/preview/32672/373195/3394709.mp3"></div>
+</div>
+</TD>
+							<TD align="left" style="padding-left: 6px">Stay With Me Baby</TD><TD align="left" width="170">
+
+<a href="/download-mp3/duffy/artist_32672">
+
+  Duffy
+
+</a>
+</TD><TD align="left" width="150">
+
+<a href="/download-mp3/radioplay-pop-express-828p/album_373195">
+
+  Radioplay Pop Express 828P
+
+</a>
+</TD><TD align="center" width="50">3:47</TD><TD align="center" width="55">168&nbsp;kbps</TD><TD align="center" width="50">$0.09</TD>
+							<TD CLASS=checkbox WIDTH=34><input id="song_154" type="hidden" value="0" name="song_154" /> <img border="0" height="13" onclick="selectSong(154)" id="checkbox_154" src="/legalsounds/img/1/albums/checkbox_off.gif" /></TD>
+						</TR>
+						<TR>
+							<TD colspan="8" class="sep">
+								<SPACER WIDTH=1 TYPE=block HEIGHT=1>
+							</TD>
+						</TR>
+					
+				</TABLE>
+			</DIV>
+		</DIV>
+		<DIV ID=buysel style="clear: both;">
+			<TABLE BORDER=0 CELLSPACING=0 WIDTH=700 CELLPADDING=0>
+				<TR>
+					<TD ALIGN=LEFT NOWRAP></TD>
+					<TD ALIGN=CENTER valign="top" WIDTH="100%">
+  
+
+
+
+</TD>
+					<TD ALIGN=RIGHT NOWRAP><span style="white-space: nowrap">
+  <div STYLE="visibility: hidden; display: none !important;"><img name="deselectImg" border="0" hspace="6" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/but_deselect_all_gs.gif?1289764658576" height="15" /><img name="selectImg" border="0" hspace="6" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/but_select_all_gs.gif?1289764658576" height="15" /></div><A ONCLICK="checkUncheckAll()" HREF="javascript:;"><img name="checkUncheckButton" border="0" hspace="6" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/but_select_all_gs.gif?1289764658576" height="15" /></A><INPUT VALUE=true TYPE=HIDDEN NAME=checkUncheckInput>
+  <input border="0" type="image" name="0.1.0.0.33.1.19.19.1.5.3.8.3" src="/WebObjects/LegalSounds.woa/Contents/WebServerResources/English.lproj/but_buy_selected_gs.gif?1289764658576" height="15" />
+</span></TD>
+				</TR>
+			</TABLE>
+		</DIV>
+	</form>
+
+      <div id="MinHeightFix391Clear">
+        <spacer />
+      </div>
+    </div>
+  </div>
+
+		
+
+	</DIV>
+	
+
+          
+          
+<table cellspacing = "0" border = "0" width = "734" cellpadding = "0">
+  <tr>
+    <td colspan = "2" height = "5"></td>
+  </tr>
+  <tr>
+    <td align = "LEFT" class = "menubot" bgcolor = "#CFD3D5">
+      
+        <a href = "http://www.legalsounds.com">Download and buy mp3 music at LegalSounds.com</a>
+      
+    </td>
+    <td align = "right" class = "menubot" bgcolor = "#CFD3D5">
+      
+        <a href="/Contacts">Contact Us</a> |
+      
+        <a href="/LegalInfo">Legal Info</a> |
+      
+        <a href="/Terms">Terms of Service</a> |
+      
+        <a href="/Privacy">Privacy Policy</a> |
+      
+        <a href="/Partners">Mp3 Players Review</a> |
+      
+        <a href="/updatesHistory">Updates History</a>
+    </td>
+  </tr>
+  <tr>
+    <td align = "right" class = "copy" colspan = "2">Copyright &copy; 2009 Legalsounds.com. All rights reserved.<br>Legalsounds.com is Your  <a href="http://www.legalsounds.com" target="_blank" >mp3 store</a>  to <a href="http://www.legalsounds.com" target="_blank" >buy mp3s</a> , <a href="http://www.legalsounds.com" target="_blank" >download mp3</a>  and purchase  <a href="http://www.legalsounds.com" target="_blank" >legal music</a> online. |  <a href="http://www.legalsounds.com/InspectReviewArtist?__key=1384" target="_blank" >Articles</a> |</td>
+  </tr>
+</table>
+
+        </td>
+        
+      </tr>
+    </table>
+    
+  </div>
+  <img border="0" width="1" height="1" />
+
+    
+      <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1077358-1");
+
+pageTracker._initData();
+pageTracker._trackPageview("/PickListPowerSearchResultsSong?s=&ar=duffy&a=");
+pageTracker._setVar('');
+</script>
+
+
+      <script id="pap_x2s6df8d" src="http://www.affiliate-gate.com/scripts/clickjs.php" type="text/javascript"></script>
+<script type="text/javascript">papTrack();</script>
+      
+  <style>
+    #lb1458 {
+      position:absolute;
+      left:-2px;
+    }
+    #lb1458:visited {
+      left:-1px;
+    }
+  </style>
+  <script type="text/javascript"><!--
+
+    new LoadBalancer().run("/LoadBalancer$PositiveResult/lssite", "/LoadBalancer$PositiveResult/touch");
+  
+//--></script>
+
+    
+  </body>
+  
+</html>
+
+
+

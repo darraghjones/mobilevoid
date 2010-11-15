@@ -1,0 +1,7 @@
+%h1 Artist#index
+%ul
+  -@artists.each do |ar|
+    %li
+      %a{:href => ar.Url}=ar.Name
+
+=will_paginate(@artists)

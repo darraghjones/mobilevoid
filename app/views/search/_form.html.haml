@@ -1,0 +1,12 @@
+=form_tag(search_path, :method => "get", :remote => true) do 
+  =label_tag(:s, "Song:")
+  =text_field_tag(:s)
+
+  =label_tag(:ar, "Artist:")
+  =text_field_tag(:ar)
+
+  =label_tag(:a, "Album:")
+  =text_field_tag(:a)
+
+  =submit_tag("Search", :disable_with => "Searching...")
+

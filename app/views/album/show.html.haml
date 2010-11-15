@@ -1,0 +1,8 @@
+%h1 Music#album
+.album
+  %h2=@songs[0].Album.Name
+  %ul
+    -@songs.each do |s|
+      %li
+        %a{:href => "http://www.legalsounds.com#{s.Url}"}=s.Name
+

@@ -1,0 +1,9 @@
+%h1 Search#show
+
+=render "form"
+
+%ul
+  -@songs.each do |s|
+    %li
+      %a{:href => s.Url}==#{s.Name} - #{s.Album.Name} - #{s.Artist.Name}
+
