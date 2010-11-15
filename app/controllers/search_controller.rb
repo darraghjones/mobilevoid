@@ -5,9 +5,13 @@ def index
 end
 
 def new
-if params[:s] || params[:ar] || params[:a] 
+if params[:pattern]
+doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/search?pattern=#{CGI.escape(params[:pattern])}"))
+elsif params[:s] || params[:ar] || params[:a] 
 doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/powerSearch?s=#{CGI.escape(params[:s])}&ar=#{CGI.escape(params[:ar])}&a=#{CGI.escape(params[:a])}"))
+end
 
+if doc
 @songs = Array.new
 doc.css('table.tbllist tr.off').each do |n| 
 ar = Artist.new

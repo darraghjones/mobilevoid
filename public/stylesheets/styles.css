@@ -2,6 +2,7 @@
 div { border: thin solid red; padding: 10px; margin: 10px; }
 li {list-style-type: none;}
 
+.search { float:right; }
 .charts { float:left; }
 .charts li { display: inline; }
 .world-bestsellers { float:left; }
