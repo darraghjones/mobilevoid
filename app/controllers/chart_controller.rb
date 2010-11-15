@@ -12,7 +12,11 @@ ar = Artist.new
 al = Album.new
 al.Artist = ar
 al.Artist.Name = n.css('td.cont a.artistName')[0] && n.css('td.cont a.artistName')[0].text() || "Various Artists" 
-al.Name = n.css('td.cont a')[0] && n.css('td.cont a')[0].text() || "" #n.css('td.cont')[0].text()
+al.Name = n.css('td.cont a')[0] && n.css('td.cont a')[0].text() || ""
+
+al.Artist.Url = n.css('td.cont a.artistName')[0] && n.css('td.cont a.artistName')[0]['href']  
+al.Url = n.css('td.cont a')[0] && n.css('td.cont a')[0]['href'] 
+
 
 @albums << al
 end

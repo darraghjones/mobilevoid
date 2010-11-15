@@ -5,5 +5,7 @@
 %ul
   -@songs.each do |s|
     %li
-      %a{:href => s.Url}==#{s.Name} - #{s.Album.Name} - #{s.Artist.Name}
+      %a{:href => "http://www.legalsounds.com#{s.Url}"}=s.Name
+      %a{:href => s.Artist.Url}=s.Artist.Name
+      %a{:href => s.Album.Url}=s.Album.Name
 

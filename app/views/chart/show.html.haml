@@ -1,8 +1,4 @@
 %h1 Chart#show
 %ul
-  -@albums.each do |al| 
-    %li
-      %a{:href => al.Url}=al.Name
-      %br
-      =al.Artist.Name
+  =render :partial => "album/album", :collection => @albums
 
