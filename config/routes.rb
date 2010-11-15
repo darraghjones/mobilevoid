@@ -1,10 +1,12 @@
 Mobilevoid::Application.routes.draw do
 
+  r = %r([^/]+)
+
   match "/powerSearch", :to => "search#new", :as => "search"
 
-  match "/download-mp3(/:artist_name)/:album_name/album_:album_id", :to => "album#show"
+  match "/download-mp3(/:artist_name)/:album_name/album_:album_id", :to => "album#show", :constraints => { :artist_name => r, :album_name => r, :album_id => /\d+/ }
   
-  match "/download-mp3/:artist_name/artist_:artist_id", :to => "artist#show"
+  match "/download-mp3/:artist_name/artist_:artist_id", :to => "artist#show", :constraints => { :artist_name => r, :album_name => r, :artist_id => /\d+/ }
 
   match "/mp3-artists/letter_:letter", :to => "artist#index"
 
