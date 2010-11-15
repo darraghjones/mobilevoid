@@ -18,7 +18,7 @@ s.Album = al
 s.Name = n.css('td')[1].text()
 s.Url = n.css('div.preview div')[0]['href']
 s.Artist.Name = n.css('td')[2].text()  
-s.Artist.Url = n.css('td')[2].at_css('a') && n.css('td')[2].at_css('a')['href'] || ""
+s.Artist.Url = n.css('td')[2].at_css('a') && n.css('td')[2].at_css('a')['href'] 
 s.Album.Name = n.css('td')[3].text()
 s.Album.Url = n.css('td')[3].at_css('a')['href']
 
