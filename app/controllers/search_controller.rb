@@ -6,7 +6,7 @@ end
 
 def new
 if params[:s] || params[:ar] || params[:a] 
-doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/powerSearch?s=#{params[:s]}&ar=#{CGI.escape(params[:ar])}&a=#{params[:a]}"))
+doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/powerSearch?s=#{CGI.escape(params[:s])}&ar=#{CGI.escape(params[:ar])}&a=#{CGI.escape(params[:a])}"))
 
 @songs = Array.new
 doc.css('table.tbllist tr.off').each do |n| 
