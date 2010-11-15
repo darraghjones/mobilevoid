@@ -1,4 +1,9 @@
+
+div { border: thin solid red; padding: 10px; margin: 10px; }
+li {list-style-type: none;}
+
 .charts { float:left; }
+.charts li { display: inline; }
 .world-bestsellers { float:left; }
 .hot-releases { float: left; }
 .most-downloaded { float: left }

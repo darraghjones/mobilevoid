@@ -1,5 +1,6 @@
 %h1 Music#index
-%div
+.browse
+  %h2 Browse by Artist
   -('A'..'Z').each do |l|
     %a{:href => "/mp3-artists/letter_#{l}" }=l
 
@@ -9,22 +10,26 @@
     -@charts.each do |c|
       %li
         %a{:href => c.Url}=c.Title
-        %br
+        /%br
         =c.Date
 
 .world-bestsellers
   %h2 World Bestsellers
-  =render :partial => "album/album", :collection => @world_bestsellers
+  %ul
+    =render :partial => "album/album", :collection => @world_bestsellers
 
 .hot-releases
   %h2 Hot Releases
-  =render :partial => "album/album", :collection => @hot_releases
+  %ul
+    =render :partial => "album/album", :collection => @hot_releases
 
 .most-downloaded
   %h2 Most Downloaded
-  =render :partial => "album/album", :collection => @most_downloaded
+  %ul
+    =render :partial => "album/album", :collection => @most_downloaded
 
 .just-added
   %h2 Just Added
-  =render :partial => "album/album", :collection => @just_added
+  %ul
+    =render :partial => "album/album", :collection => @just_added
 
