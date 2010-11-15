@@ -1,9 +1,9 @@
 module Utility
 
  def open_url(url)
-    #logger.log(url)
+    Rails.logger.info(url)
     digest = Digest::MD5.hexdigest(url)
-    filename = "#{RAILS_ROOT}/tmp/" + digest
+    filename = "#{Rails.root}/tmp/" + digest
     if File.exists?(filename)
        s = File.open(filename, 'r') { |f| f.read }
     else

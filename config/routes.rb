@@ -12,6 +12,8 @@ Mobilevoid::Application.routes.draw do
 
   match "/InspectChart", :to => "chart#show"
 
+  match "/mostDownloaded", :to => "chart#most_downloaded"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

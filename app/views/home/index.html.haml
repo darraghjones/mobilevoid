@@ -13,10 +13,19 @@
         /%br
         =c.Date
 
+/.world-bestsellers
+/  %h2 World Bestsellers
+/  %ul
+/    =render :partial => "album/album", :collection => @world_bestsellers
+
 .world-bestsellers
-  %h2 World Bestsellers
-  %ul
-    =render :partial => "album/album", :collection => @world_bestsellers
+  %h2 Best Sellers
+  =render :partial => "chart/most_downloaded", :object => "Artist"
+  =render :partial => "chart/most_downloaded", :object => "Album"
+  =render :partial => "chart/most_downloaded", :object => "Song"
+  =render :partial => "chart/most_downloaded", :object => "Compilation"
+ 
+%br
 
 .hot-releases
   %h2 Hot Releases
