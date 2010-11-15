@@ -1,0 +1,7 @@
+-entity = most_downloaded
+%div{:class => entity, :style => "float:left;"}  
+  %h2=entity.pluralize 
+  %a{:href => "/mostDownloaded?period=Week&entity=#{entity}"}Last Week
+  %a{:href => "/mostDownloaded?period=Month&entity=#{entity}"}Last Month
+  %a{:href => "/mostDownloaded?period=AllTime&entity=#{entity}"}All Time
+ 
