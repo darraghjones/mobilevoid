@@ -1,20 +1,10 @@
-%br{:clear => "both"}
-%h1{:style => "float:left;"} Music#index
-
-.search
-  =form_tag(search_path, :method => "get") do 
-    =label_tag(:pattern, "Search:")
-    =text_field_tag(:pattern)
-    /=submit_tag("Search")
-
-%br{:clear => "both"}
 
 .browse
   %h2 Browse by Artist
   -('A'..'Z').each do |l|
     %a{:href => "/mp3-artists/letter_#{l}" }=l
 
-.charts  
+.span-12  
   %h2 Charts
   %ul
     -@charts.each do |c|
@@ -28,26 +18,30 @@
 /  %ul
 /    =render :partial => "album/album", :collection => @world_bestsellers
 
-.world-bestsellers
+.span-12.last
   %h2 Best Sellers
-  =render :partial => "chart/most_downloaded", :object => "Artist"
-  =render :partial => "chart/most_downloaded", :object => "Album"
-  =render :partial => "chart/most_downloaded", :object => "Song"
-  =render :partial => "chart/most_downloaded", :object => "Compilation"
+  .span-12
+    =render :partial => "chart/most_downloaded", :object => "Artist"
+  .span-12
+    =render :partial => "chart/most_downloaded", :object => "Album"
+  .span-12
+    =render :partial => "chart/most_downloaded", :object => "Song"
+  .span-12.last
+    =render :partial => "chart/most_downloaded", :object => "Compilation"
  
-%br
+ 
 
-.hot-releases
+.hot-releases.span-8
   %h2 Hot Releases
   %ul
     =render :partial => "album/album", :collection => @hot_releases
 
-.most-downloaded
+.most-downloaded.span-8
   %h2 Most Downloaded
   %ul
     =render :partial => "album/album", :collection => @most_downloaded
 
-.just-added
+.just-added.span-8.last
   %h2 Just Added
   %ul
     =render :partial => "album/album", :collection => @just_added
