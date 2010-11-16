@@ -10,6 +10,12 @@ gem 'nokogiri'
 gem "will_paginate"
 gem 'jquery-rails'
 gem 'haml'
+#gem 'asin'
+#gem 'hashie'
+#gem 'httpclient'
+#gem 'crack'
+gem 'ruby-aaws'
+gem 'dalli'
 
 # Use unicorn as the web server
 # gem 'unicorn'
