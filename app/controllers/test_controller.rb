@@ -13,19 +13,19 @@ class TestController < ApplicationController
 
     # We can use symbols instead of string.
 #
-is = ItemSearch.new( :Music, { :Artist => 'Stranglers' } )
-is.response_group = ResponseGroup.new( :Medium )
+    is                = ItemSearch.new(:Music, {:Artist => 'Stranglers'})
+    is.response_group = ResponseGroup.new(:Medium)
 
-req = Request.new
-req.locale = 'uk'
+    req               = Request.new
+    req.locale        = 'uk'
 
-resp = req.search( is )
+    resp              = req.search(is)
 
 # Use of :ALL_PAGES means an array of responses is returned, one per page.
 #
-items = resp.collect { |r| r.item_search_response[0].items[0].item }.flatten
-	
-	render :content_type => "text/plain", :text => items.to_yaml
+    items             = resp.collect { |r| r.item_search_response[0].items[0].item }.flatten
+
+    render :content_type => "text/plain", :text => items.to_yaml
 
   end
 
