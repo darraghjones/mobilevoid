@@ -1,7 +1,11 @@
 require 'moonshado-sms'
 
 class SmsController < ApplicationController
-  
+ 
+  def env
+    render :content_type => "text/plain", :text => ENV['MOONSHADOSMS_URL']
+  end
+ 
   def create
     render :content_type => "text/plain", :text => params.to_yaml	
   end
