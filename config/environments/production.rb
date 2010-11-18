@@ -51,7 +51,7 @@ Mobilevoid::Application.configure do
   config.after_initialize do
     Moonshado::Sms.configure do |config|
       #config.api_key = ENV['MOONSHADOSMS_URL']
-      config.keywords = {:mobilevoid => "http://mobilevoid.heroku.com/sms/create"}
+      #config.keywords = {:mobilevoid => "http://mobilevoid.heroku.com/sms/create"}
 
       # This will auto register keywords on application startup
       config.auto_register_keywords = true
