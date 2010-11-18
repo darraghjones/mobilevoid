@@ -5,11 +5,11 @@
  *
  * This rails.js file supports jQuery 1.4.3 and 1.4.4 .
  *
- */ 
+ */
 
 jQuery(function ($) {
     var csrf_token = $('meta[name=csrf-token]').attr('content'),
-        csrf_param = $('meta[name=csrf-param]').attr('content');
+            csrf_param = $('meta[name=csrf-param]').attr('content');
 
     $.fn.extend({
         /**
@@ -35,16 +35,16 @@ jQuery(function ($) {
          * - ajax:success  - is executed when status is success
          * - ajax:complete - is execute when status is complete
          * - ajax:failure  - is execute in case of error
-         * - ajax:after    - is execute every single time at the end of ajax call 
+         * - ajax:after    - is execute every single time at the end of ajax call
          */
         callRemote: function () {
-            var el      = this,
-                method  = el.attr('method') || el.attr('data-method') || 'GET',
-                url     = el.attr('action') || el.attr('href'),
-                dataType  = el.attr('data-type')  || 'script';
+            var el = this,
+                    method = el.attr('method') || el.attr('data-method') || 'GET',
+                    url = el.attr('action') || el.attr('href'),
+                    dataType = el.attr('data-type') || 'script';
 
             if (url === undefined) {
-              throw "No URL specified for remote call (action or href must be present).";
+                throw "No URL specified for remote call (action or href must be present).";
             } else {
                 if (el.triggerAndReturn('ajax:before')) {
                     var data = el.is('form') ? el.serializeArray() : [];
@@ -85,7 +85,6 @@ jQuery(function ($) {
             }
         }
     });
-  
 
 
     /**
@@ -101,20 +100,20 @@ jQuery(function ($) {
         e.preventDefault();
     });
 
-    $('a[data-method]:not([data-remote])').live('click', function (e){
+    $('a[data-method]:not([data-remote])').live('click', function (e) {
         var link = $(this),
-            href = link.attr('href'),
-            method = link.attr('data-method'),
-            form = $('<form method="post" action="'+href+'"></form>'),
-            metadata_input = '<input name="_method" value="'+method+'" type="hidden" />';
+                href = link.attr('href'),
+                method = link.attr('data-method'),
+                form = $('<form method="post" action="' + href + '"></form>'),
+                metadata_input = '<input name="_method" value="' + method + '" type="hidden" />';
 
         if (csrf_param != null && csrf_token != null) {
-          metadata_input += '<input name="'+csrf_param+'" value="'+csrf_token+'" type="hidden" />';
+            metadata_input += '<input name="' + csrf_param + '" value="' + csrf_token + '" type="hidden" />';
         }
 
         form.hide()
-            .append(metadata_input)
-            .appendTo('body');
+                .append(metadata_input)
+                .appendTo('body');
 
         e.preventDefault();
         form.submit();
@@ -123,16 +122,16 @@ jQuery(function ($) {
     /**
      * disable-with handlers
      */
-    var disable_with_input_selector           = 'input[data-disable-with]',
-        disable_with_form_remote_selector     = 'form[data-remote]:has('       + disable_with_input_selector + ')',
-        disable_with_form_not_remote_selector = 'form:not([data-remote]):has(' + disable_with_input_selector + ')';
+    var disable_with_input_selector = 'input[data-disable-with]',
+            disable_with_form_remote_selector = 'form[data-remote]:has(' + disable_with_input_selector + ')',
+            disable_with_form_not_remote_selector = 'form:not([data-remote]):has(' + disable_with_input_selector + ')';
 
     var disable_with_input_function = function () {
         $(this).find(disable_with_input_selector).each(function () {
             var input = $(this);
             input.data('enable-with', input.val())
-                .attr('value', input.attr('data-disable-with'))
-                .attr('disabled', 'disabled');
+                    .attr('value', input.attr('data-disable-with'))
+                    .attr('disabled', 'disabled');
         });
     };
 
@@ -143,14 +142,14 @@ jQuery(function ($) {
         $(this).find(disable_with_input_selector).each(function () {
             var input = $(this);
             input.removeAttr('disabled')
-                 .val(input.data('enable-with'));
+                    .val(input.data('enable-with'));
         });
     });
 
     var jqueryVersion = $().jquery;
 
-    if ( (jqueryVersion === '1.4') || (jqueryVersion === '1.4.1') || (jqueryVersion === '1.4.2') ){
-      alert('This rails.js does not support the jQuery version you are using. Please read documentation.')
+    if ((jqueryVersion === '1.4') || (jqueryVersion === '1.4.1') || (jqueryVersion === '1.4.2')) {
+        alert('This rails.js does not support the jQuery version you are using. Please read documentation.')
     }
 
 });

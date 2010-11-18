@@ -1,10 +1,9 @@
-
 Mobilevoid::Application.configure do
   # Settings specified here will take precedence over those in config/environment.rb
 
   # The production environment is meant for finished, "live" apps.
   # Code is not reloaded between requests
-  config.cache_classes = true
+  config.cache_classes                     = true
 
   # Full error reports are disabled and caching is turned on
   config.consider_all_requests_local       = false
@@ -27,11 +26,11 @@ Mobilevoid::Application.configure do
 
   # Use a different cache store in production
   # config.cache_store = :mem_cache_store
-  config.cache_store = :dalli_store
+  config.cache_store                       = :dalli_store
 
   # Disable Rails's static asset server
   # In production, Apache or nginx will already do this
-  config.serve_static_assets = false
+  config.serve_static_assets               = false
 
   # Enable serving of images, stylesheets, and javascripts from an asset server
   # config.action_controller.asset_host = "http://assets.example.com"
@@ -44,8 +43,20 @@ Mobilevoid::Application.configure do
 
   # Enable locale fallbacks for I18n (makes lookups for any locale fall back to
   # the I18n.default_locale when a translation can not be found)
-  config.i18n.fallbacks = true
+  config.i18n.fallbacks                    = true
 
   # Send deprecation notices to registered listeners
-  config.active_support.deprecation = :notify
+  config.active_support.deprecation        = :notify
+
+  config.after_initialize do
+    Moonshado::Sms.configure do |config|
+      config.api_key = ENV['MOONSHADOSMS_URL']
+      config.keywords = {:bender => "http:/mobilevoid.heroku.com/sms/new"}
+
+      # This will auto register keywords on application startup
+      config.auto_register_keywords = true
+    end
+  end
+
+
 end

@@ -1,13 +1,39 @@
+div {
+    border: thin solid red;
+    padding: 10px;
+    margin: 10px;
+}
 
-div { border: thin solid red; padding: 10px; margin: 10px; }
-li {list-style-type: none;}
+li {
+    list-style-type: none;
+}
 
-.search { float:right; }
-.charts { float:left; }
-.charts li { display: inline; }
-.world-bestsellers { float:left; }
-.hot-releases { float: left; }
-.most-downloaded { float: left }
-.just-added { float: left }
+.search {
+    float: right;
+}
+
+.charts {
+    float: left;
+}
+
+.charts li {
+    display: inline;
+}
+
+.world-bestsellers {
+    float: left;
+}
+
+.hot-releases {
+    float: left;
+}
+
+.most-downloaded {
+    float: left
+}
+
+.just-added {
+    float: left
+}
 
 

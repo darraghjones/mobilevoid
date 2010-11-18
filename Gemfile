@@ -16,6 +16,7 @@ gem 'haml'
 #gem 'crack'
 gem 'ruby-aaws'
 gem 'dalli'
+gem 'moonshado-sms'
 
 # Use unicorn as the web server
 # gem 'unicorn'
