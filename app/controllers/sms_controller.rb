@@ -12,7 +12,7 @@ class SmsController < ApplicationController
 
   def send_sms
 
-    sms = Moonshado::Sms.new("15556345789", "test")
+    sms = Moonshado::Sms.new("447576537223", "test")
     status = sms.deliver_sms
     report = Moonshado::Sms.find(status[:id])
     render :content_type => "text/plain", :text => sms.to_yaml + status.to_yaml + report.to_yaml
