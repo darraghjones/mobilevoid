@@ -1,4 +1,7 @@
 class UsersController < ApplicationController
+
+  skip_after_filter :cache_response
+
   # GET /users
   # GET /users.xml
   def index
