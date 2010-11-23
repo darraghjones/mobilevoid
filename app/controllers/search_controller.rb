@@ -9,7 +9,7 @@ class SearchController < ApplicationController
  
   def new
     if params[:pattern]
-      s = Rails.cache.read(:searches).dup || []
+      s = Rails.cache.read(:searches) && Rails.cache.read(:searches).dup || []
       s << params[:pattern]
       Rails.cache.write(:searches, s)
       doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/search?pattern=#{CGI.escape(params[:pattern])}"))
