@@ -5,8 +5,10 @@ class ApplicationController < ActionController::Base
 
   protect_from_forgery
 
+  after_filter :cache_response
 
-  after_filter do |controller|
+
+  def cache_response
     response.headers['Cache-Control'] = 'public; max-age=2592000' # cache image for a month
   end
 

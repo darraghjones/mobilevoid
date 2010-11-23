@@ -1,9 +1,17 @@
 class SearchController < ApplicationController
-  def index
-  end
 
+  skip_after_filter :cache_response, :only => :index
+
+  def index
+    @searches = Rails.cache.read(:searches)
+    render :partial => true
+  end
+ 
   def new
     if params[:pattern]
+      s = Rails.cache.read(:searches).dup || []
+      s << params[:pattern]
+      Rails.cache.write(:searches, s)
       doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/search?pattern=#{CGI.escape(params[:pattern])}"))
     elsif params[:s] || params[:ar] || params[:a]
       doc = Nokogiri::HTML(open_url("http://www.legalsounds.com/powerSearch?s=#{CGI.escape(params[:s])}&ar=#{CGI.escape(params[:ar])}&a=#{CGI.escape(params[:a])}"))

@@ -1,10 +1,15 @@
 
+-content_for :head
+%script
+  $(document).ready(function() { show_searches('/search/index') });
+
+
 .browse
   %h2 Browse by Artist
   -('A'..'Z').each do |l|
     %a{:href => "/mp3-artists/letter_#{l}" }=l
 
-.span-12  
+.span-8  
   %h2 Charts
   %ul
     -@charts.each do |c|
@@ -18,7 +23,7 @@
 /  %ul
 /    =render :partial => "album/album", :collection => @world_bestsellers
 
-.span-12.last
+.span-8
   %h2 Best Sellers
   .span-12
     =render :partial => "chart/most_downloaded", :object => "Artist"
@@ -28,6 +33,10 @@
     =render :partial => "chart/most_downloaded", :object => "Song"
   .span-12.last
     =render :partial => "chart/most_downloaded", :object => "Compilation"
+
+.span-8.last
+  %h2 Last 10 Searches 
+  #searches 
  
 %br{:clear => "both"} 
 

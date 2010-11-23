@@ -1,0 +1,13 @@
+<p id="info">
+confirm your mobile number by texting <%= @user.confirm_code%> to 85585 
+</p>
+
+<% content_for :head do %>
+
+<script type="text/javascript">
+$(document).ready(function() { check_for_confirmation('<%= request.path %>'); });
+</script>
+
+<% end %>
+
+<%= link_to 'Back', users_path %>

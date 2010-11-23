@@ -1,13 +1,16 @@
 require 'moonshado-sms'
 
 class SmsController < ApplicationController
- 
+
+  skip_before_filter :verify_authenticity_token 
+
   def env
     render :content_type => "text/plain", :text => ENV['MOONSHADOSMS_URL']
   end
  
   def create
-    render :content_type => "text/plain", :text => params.to_yaml	
+    u = User.confirm!(params[:mobile], params[:message])
+    render :content_type => "text/plain", :text => u.to_yaml	
   end
 
   def send_sms
