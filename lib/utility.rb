@@ -19,4 +19,13 @@ module Utility
     s
   end
 
+  def get_text(n)
+     n && n.text()
+  end
+
+  def get_href(n)
+     n && n['href']
+  end
+
+
 end

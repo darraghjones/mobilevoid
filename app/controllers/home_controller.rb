@@ -8,9 +8,9 @@ class HomeController < ApplicationController
     doc                = Nokogiri::HTML(open_url('http://www.legalsounds.com/'))
     #@world_bestsellers = parse(doc.css('div#cbwn1 div.info'))
     @world_bestsellers = world_bestsellers
-    @hot_releases      = parse(doc.css('div#cbwn2 p'))
-    @most_downloaded   = parse(doc.css('div#cbwn3 p'))
-    @just_added        = parse(doc.css('div#cbwn4 p'))
+    #@hot_releases      = parse(doc.css('div#cbwn2 p'))
+    @hot_releases      = parse('http://www.legalsounds.com/hotReleases')
+    @just_added        = parse('http://www.legalsounds.com/justAdded')
     charts()
   end
 
@@ -31,32 +31,35 @@ class HomeController < ApplicationController
     albums
   end
 
+  def hot_releases()
+    parse('http://www.legalsounds.com/hotReleases')
+  end
+
   def charts()
     doc     = Nokogiri::HTML(open_url('http://www.legalsounds.com/ListChart'))
     @charts = Array.new
-    doc.css('table.listcharts td')[0...15].each do |n|
+    doc.css('div.contentWrapper div.item')[0...15].each do |n|
       c       = Chart.new
-      c.Title = n.css('img')[0]['alt']
-      c.Date  = n.css('div.date').text()
+      c.Title = n.css('a')[1].text()
+      c.Date  = n.css('span.date').text()
       c.Title["Billboard "] = "" if c.Title["Billboard "]
       c.Url = n.css('a')[0]['href']
       @charts << c
     end
   end
 
-  def parse(node_set)
+  def parse(url)
+    doc = Nokogiri::HTML(open_url(url))
     albums = Array.new
-    node_set.each do |n|
-      al        = Album.new
-      al.Name   = n.css('a')[0].text()
-      ar        = Artist.new
-      ar.Name   = n.css('a')[1] ? n.css('a')[1].text() : "Various Artists"
-      ar.Url    = n.css('a')[1] && n.css('a')[1]['href']
-      al.Url    = n.css('a.albumName')[0]['href']
-      al.Artist = ar
+    doc.css('div.contentWrapper div.item').each do |n| 
+      al = Album.new
+      al.Artist = Artist.new
+      al.Name = get_text(n.css('div.name a')[0])
+      al.Url = get_href(n.css('div.name a')[0])
+      al.Artist.Name  = get_text(n.css('div.artist a')[0])
+      al.Artist.Url = get_href(n.css('div.artist a')[0])
       albums << al
     end
     albums
   end
-
 end

@@ -10,15 +10,15 @@ class AlbumController < ApplicationController
     doc     = Nokogiri::HTML(open_url('http://www.legalsounds.com' + request.path))
     ar      = Artist.new
     al      = Artist.new
-    ar.Name = doc.css('div.author')[0].text()
-    al.Name = doc.css('div.tit')[0].text()
+    ar.Name = doc.css('div.albumInfo div.artist')[0].text()
+    al.Name = doc.css('div.albumInfo div.name')[0].text()
     @songs  = Array.new
-    doc.css('table.tbllist tr.off').each do |n|
+    doc.css('table.content tr')[1..-1].each do |n|
       s        = Song.new
       s.Artist = ar
       s.Album  = al
-      s.Name   = n.css('td')[2].text()
-      s.Url    = n.css('div.preview div')[0]['href']
+      s.Name   = get_text(n.css('td.name')[0])
+      s.Url    = get_href(n.css('td.preview div.play')[0])
       @songs << s
     end
   end
