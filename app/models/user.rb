@@ -27,6 +27,11 @@ class User < ActiveRecord::Base
     return user if user.has_password?(submitted_password)
   end
 
+  def self.authenticate_with_salt(id, cookie_salt)
+    user = find_by_id(id)
+    (user && user.salt == cookie_salt) ? user : nil
+  end
+
   def self.confirm!(mobile, submitted_confirm_code)
     user = find_by_mobile(mobile)
     if user && user.confirm_code == submitted_confirm_code

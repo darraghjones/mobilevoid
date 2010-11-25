@@ -19,19 +19,18 @@ class SearchController < ApplicationController
 
     if doc
       @songs = Array.new
-      doc.css('table.tbllist tr.off').each do |n|
+      doc.css('form table.content tr').each do |n|
         ar            = Artist.new
         al            = Artist.new
         s             = Song.new
         s.Artist      = ar
         s.Album       = al
-        s.Name        = n.css('td')[1].text()
-        s.Url         = n.css('div.preview div')[0]['href']
-        s.Artist.Name = n.css('td')[2].text()
-        s.Artist.Url  = n.css('td')[2].at_css('a') && n.css('td')[2].at_css('a')['href']
-        s.Album.Name  = n.css('td')[3].text()
-        s.Album.Url   = n.css('td')[3].at_css('a')['href']
-
+        s.Name        = get_text(n.css('td.name')[0])
+        s.Url         = get_href(n.css('div.preview div')[0])
+        s.Artist.Name = get_text(n.css('td.artist a')[0])
+        s.Artist.Url  = get_href(n.css('td.artist a')[0])
+        s.Album.Name  = get_text(n.css('td.album a')[0])
+        s.Album.Url   = get_href(n.css('td.album a')[0])
         @songs << s
       end
       respond_to do |format|

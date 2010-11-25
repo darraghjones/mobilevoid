@@ -13,12 +13,12 @@ class AlbumController < ApplicationController
     ar.Name = doc.css('div.albumInfo div.artist')[0].text()
     al.Name = doc.css('div.albumInfo div.name')[0].text()
     @songs  = Array.new
-    doc.css('table.content tr')[1..-1].each do |n|
+    doc.css('form table.content tr')[1..-1].each do |n|
       s        = Song.new
       s.Artist = ar
       s.Album  = al
       s.Name   = get_text(n.css('td.name')[0])
-      s.Url    = get_href(n.css('td.preview div.play')[0])
+      s.Url    = get_href(n.css('td.preview div')[0])
       @songs << s
     end
   end
