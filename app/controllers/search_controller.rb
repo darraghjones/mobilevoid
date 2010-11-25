@@ -1,7 +1,5 @@
 class SearchController < ApplicationController
 
-  skip_after_filter :cache_response, :only => :index
-
   def index
     @searches = Rails.cache.read(:searches) || []
     render :partial => true

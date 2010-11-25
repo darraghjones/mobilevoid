@@ -4,7 +4,10 @@ require 'digest/md5'
 
 class HomeController < ApplicationController
 
+  caches_action :home, :layout => false
+
   def index
+    Rails.logger.debug("executing home#index")
     doc                = Nokogiri::HTML(open_url('http://www.legalsounds.com/'))
     @most_downloaded   = parse('http://www.legalsounds.com/mostDownloaded') #world_bestsellers
     @hot_releases      = parse('http://www.legalsounds.com/hotReleases')

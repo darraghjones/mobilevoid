@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   include Utility
   include SessionsHelper
 
-  protect_from_forgery
+  #protect_from_forgery
 
   #after_filter :cache_response
 

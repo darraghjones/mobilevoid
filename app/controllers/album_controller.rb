@@ -3,6 +3,10 @@ require 'nokogiri'
 require 'digest/md5'
 
 class AlbumController < ApplicationController
+
+
+  caches_action :home, :layout => false
+
   def index
   end
 

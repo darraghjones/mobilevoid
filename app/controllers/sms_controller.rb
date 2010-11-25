@@ -2,8 +2,6 @@ require 'moonshado-sms'
 
 class SmsController < ApplicationController
 
-  skip_before_filter :verify_authenticity_token 
-
   def env
     render :content_type => "text/plain", :text => ENV['MOONSHADOSMS_URL']
   end
