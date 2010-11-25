@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
 
   protect_from_forgery
 
-  after_filter :cache_response
+  #after_filter :cache_response
 
 
   def cache_response
