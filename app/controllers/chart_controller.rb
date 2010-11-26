@@ -1,5 +1,7 @@
 class ChartController < ApplicationController
-  caches_action :home, :layout => false
+
+  caches_action :index, :show, :layout => false
+
   def index
   end
 

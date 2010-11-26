@@ -5,7 +5,7 @@ require 'digest/md5'
 class AlbumController < ApplicationController
 
 
-  caches_action :home, :layout => false
+  caches_action :index, :show, :layout => false
 
   def index
   end

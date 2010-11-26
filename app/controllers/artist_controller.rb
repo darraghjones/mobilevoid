@@ -3,7 +3,9 @@ require 'nokogiri'
 require 'digest/md5'
 
 class ArtistController < ApplicationController
-  caches_action :home, :layout => false
+
+  caches_action :index, :show, :layout => false
+
   def index
     doc      = Nokogiri::HTML(open_url('http://www.legalsounds.com' + request.path))
     @artists = Array.new

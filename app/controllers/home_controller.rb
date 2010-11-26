@@ -4,7 +4,7 @@ require 'digest/md5'
 
 class HomeController < ApplicationController
 
-  caches_action :home, :layout => false
+  caches_action :index, :layout => false
 
   def index
     Rails.logger.debug("executing home#index")
