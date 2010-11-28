@@ -12,13 +12,13 @@ class SessionsController < ApplicationController
       # Sign the user in and redirect to the user's show page.
       flash[:success] = "Welcome back"
       sign_in(user)
-      redirect_to user
+      redirect_to params[:redirect_url] || root_path
     end
   end
 
   def destroy
     sign_out
-    redirect_to root_path
+    redirect_to params[:redirect_url] || root_path
   end
 
 end
