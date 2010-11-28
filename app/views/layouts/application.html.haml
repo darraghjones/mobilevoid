@@ -11,7 +11,7 @@
     /[if lt IE 8]
       %link{:rel => "stylesheet", :href => "/stylesheets/blueprint/ie.css", :type => "text/css", :media => "screen, projection"}
 
-    =yield :head
+    =yield(:head)
   
     =csrf_meta_tag 
   
