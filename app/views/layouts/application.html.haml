@@ -2,7 +2,7 @@
 %html
   %head
     %title Mobilevoid
-    =javascript_include_tag 'jquery', 'jquery.jplayer.min', 'rails', 'application', :cache => false
+    =javascript_include_tag 'jquery', 'jquery.jplayer.min', 'jquery.jscrollpane.min', 'jquery.mousewheel', 'rails', 'application', 'jquery.blockUI', :cache => false
     =stylesheet_link_tag :all, :cache => false
   
     %link{:rel => "stylesheet", :href => "/stylesheets/blueprint/screen.css", :type => "text/css", :media => "screen, projection"}
@@ -11,6 +11,15 @@
     /[if lt IE 8]
       %link{:rel => "stylesheet", :href => "/stylesheets/blueprint/ie.css", :type => "text/css", :media => "screen, projection"}
 
+    :javascript
+      $(document).ready(function() {
+        $("#sign-in")
+          .bind("ajax:success", function(data, status, xhr) {
+            $.blockUI({message: status})
+        });
+      });
+
+
     =yield(:head)
   
     =csrf_meta_tag 
@@ -18,28 +27,26 @@
   %body
     .container
       %header.span-24.last
-        .span-3
+        .span-6
           %h1
             %a{:href => "/"}Home
-        #account.span-14
-          -if signed_in?
-            =current_user.mobile
-            =link_to "Sign out", signout_path(:redirect_url => request.path), :method => :delete
-          -else
-            =form_for(:session, :url => sessions_path) do
-              =hidden_field_tag(:redirect_url, request.path)
-              =label_tag(:mobile, "Mobile: ")
-              =text_field_tag(:mobile)
-              =label_tag(:password, "Password: ")
-              =password_field_tag(:password)
-              =submit_tag("Login")
-            =link_to("Sign-up", signup_path)
-        #search.span-7.last
+        #search.span-12
           =form_tag(search_path, :method => "get") do 
-            =label_tag(:pattern, "Search:")
+            =label_tag(:pattern, "Search")
+            =select_tag ":what", options_for_select(%w{ all artists songs albums })
+            %span
+              for
             =text_field_tag(:pattern)
-            =submit_tag("Search")
-          =link_to("Power Search", search_path) 
+            =submit_tag("Find")
+            =link_to("Power Search", power_search_path)
+        #account.span-6.last
+          -if signed_in?
+            logged in as 
+            =current_user.mobile
+            =link_to "Sign out", signout_path(:redirect_url => request.url), :method => :delete
+          -else
+            =link_to "Sign in", signin_path(:redirect_url => request.url), :id => "sign-in", :remote => true
+            =link_to "Sign-up", signup_path(:redirect_url => request.url)
       .span-24.last
         -flash.each do |key, value|
           %div{:class => "flash #{key}"}=value

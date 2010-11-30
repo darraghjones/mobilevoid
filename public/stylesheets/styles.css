@@ -1,39 +1,10 @@
-div {
-    border: thin solid red;
-    padding: 10px;
-    margin: 10px;
+.scroll-pane
+{
+	width: 100%;
+	height: 200px;
+	overflow: auto;
 }
-
-li {
-    list-style-type: none;
+.scroll-pane li
+{
+	list-style-type: none;
 }
-
-.search {
-    float: right;
-}
-
-.charts {
-    float: left;
-}
-
-.charts li {
-    display: inline;
-}
-
-.world-bestsellers {
-    float: left;
-}
-
-.hot-releases {
-    float: left;
-}
-
-.most-downloaded {
-    float: left
-}
-
-.just-added {
-    float: left
-}
-
-

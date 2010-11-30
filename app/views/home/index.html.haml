@@ -1,11 +1,15 @@
 
 -content_for :head
-%script
-  $(document).ready(function() { show_searches('/search/index') });
+:javascript
+  $(document).ready(function() { 
+    show_searches('/search/index');
+    $('.scroll-pane').jScrollPane();
+  });
 
 
 .browse.span-16
   %h2 Browse by Artist
+  =link_to "0..9", "/mp3-artists/letter_0..9"
   -('A'..'Z').each do |l|
     %a{:href => "/mp3-artists/letter_#{l}" }=l
 
@@ -39,17 +43,17 @@
 
 .hot-releases.span-8
   %h2 Hot Releases
-  %ul
+  %ul.scroll-pane
     =render :partial => "album/album", :collection => @hot_releases
 
 .most-downloaded.span-8
   %h2 Most Downloaded
-  %ul
+  %ul.scroll-pane
     =render :partial => "album/album", :collection => @most_downloaded
 
 .just-added.span-8.last
   %h2 Just Added
-  %ul
+  %ul.scroll-pane
     =render :partial => "album/album", :collection => @just_added
 
 

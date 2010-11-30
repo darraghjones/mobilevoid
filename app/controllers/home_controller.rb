@@ -9,9 +9,9 @@ class HomeController < ApplicationController
   def index
     Rails.logger.debug("executing home#index")
     doc                = Nokogiri::HTML(open_url('http://www.legalsounds.com/'))
-    @most_downloaded   = parse('http://www.legalsounds.com/mostDownloaded') #world_bestsellers
-    @hot_releases      = parse('http://www.legalsounds.com/hotReleases')
-    @just_added        = parse('http://www.legalsounds.com/justAdded')
+    @most_downloaded   = parse('http://www.legalsounds.com/mostDownloaded')[0...50]
+    @hot_releases      = parse('http://www.legalsounds.com/hotReleases')[0...50]
+    @just_added        = parse('http://www.legalsounds.com/justAdded')[0...50]
     @sound_tracks      = parse('http://www.legalsounds.com/soundtracks')
     charts()
   end

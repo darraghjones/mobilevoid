@@ -9,9 +9,9 @@ Mobilevoid::Application.routes.draw do
 
   get "sms/create"
 
-  r = %r([^/]+)
+  r = /[^\/]+/
 
-  match "/search", :to => "search#new", :as => "search"
+  match "/search", :to => "search#create", :as => "search"
 
   match "/powerSearch", :to => "search#new", :as => "power_search"
 
@@ -19,7 +19,9 @@ Mobilevoid::Application.routes.draw do
 
   match "/download-mp3/:artist_name/artist_:artist_id", :to => "artist#show", :constraints => {:artist_name => r, :album_name => r, :artist_id => /\d+/}
 
-  match "/mp3-artists/letter_:letter", :to => "artist#index"
+  match "/mp3-artists/letter_:letter", :to => "artist#index", :contraints => {:letter => [/[A-Z]/]}
+
+  match "/mp3-artists/letter_0..9", :to => "artist#index"
 
   match "/InspectChart", :to => "chart#show"
 

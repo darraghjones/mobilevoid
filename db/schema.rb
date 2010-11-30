@@ -10,7 +10,17 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101122185657) do
+ActiveRecord::Schema.define(:version => 20101130222046) do
+
+  create_table "searches", :force => true do |t|
+    t.string   "ar"
+    t.string   "a"
+    t.string   "s"
+    t.string   "pattern"
+    t.string   "what"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "users", :force => true do |t|
     t.string   "mobile"

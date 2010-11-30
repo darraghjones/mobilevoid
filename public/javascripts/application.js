@@ -26,3 +26,7 @@ function show_searches(url) {
     setTimeout(function() { show_searches(url); }, 15000);
   });
 }
+
+function show_lightbox() {
+  
+}
