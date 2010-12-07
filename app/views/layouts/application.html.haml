@@ -33,7 +33,7 @@
         #search.span-12
           =form_tag(search_path, :method => "get") do 
             =label_tag(:pattern, "Search")
-            =select_tag ":what", options_for_select(%w{ all artists songs albums })
+            =select_tag :what, options_for_select(%w{ all artists songs albums })
             %span
               for
             =text_field_tag(:pattern)
